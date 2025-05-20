@@ -1,0 +1,342 @@
+{
+  "total_manga": 42,
+  "crawl_date": "2025-05-20 12:55:25",
+  "mangas": [
+    {
+      "title": "鬼滅之刃",
+      "chapter": "更新至第23卷[完]",
+      "url": "https://tw.manhuagui.com/comic/19430/",
+      "cover_img": "//cf.mhgui.com/cpic/b/19430.jpg",
+      "update_date": "2021-08-21",
+      "score": "9.2"
+    },
+    {
+      "title": "鬥破蒼穹",
+      "chapter": "更新至第364話 展圖",
+      "url": "https://tw.manhuagui.com/comic/7620/",
+      "cover_img": "//cf.mhgui.com/cpic/b/7620.jpg",
+      "update_date": "2022-04-02",
+      "score": "8.3"
+    },
+    {
+      "title": "一拳超人",
+      "chapter": "更新至第256話重製版",
+      "url": "https://tw.manhuagui.com/comic/7580/",
+      "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
+      "update_date": "2024-12-26",
+      "score": "9.3"
+    },
+    {
+      "title": "ONE PIECE航海王",
+      "chapter": "更新至第1148話",
+      "url": "https://tw.manhuagui.com/comic/1128/",
+      "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
+      "update_date": "2025-05-08",
+      "score": "9.2"
+    },
+    {
+      "title": "斗羅大陸",
+      "chapter": "更新至第749話 慶典與考驗1",
+      "url": "https://tw.manhuagui.com/comic/7382/",
+      "cover_img": "//cf.mhgui.com/cpic/b/7382.jpg",
+      "update_date": "2021-04-26",
+      "score": "7.5"
+    },
+    {
+      "title": "百鍊成神",
+      "chapter": "更新至第901話 時間海禁地",
+      "url": "https://tw.manhuagui.com/comic/19785/",
+      "cover_img": "//cf.mhgui.com/cpic/b/19785.jpg",
+      "update_date": "2022-04-23",
+      "score": "7.6"
+    },
+    {
+      "title": "妖神記",
+      "chapter": "更新至第375話 不留餘力",
+      "url": "https://tw.manhuagui.com/comic/17965/",
+      "cover_img": "//cf.mhgui.com/cpic/b/17965.jpg",
+      "update_date": "2022-05-07",
+      "score": "7.8"
+    },
+    {
+      "title": "關於我轉生後成為史萊姆的那件事",
+      "chapter": "更新至第128話",
+      "url": "https://tw.manhuagui.com/comic/17023/",
+      "cover_img": "//cf.mhgui.com/cpic/b/17023_24.jpg",
+      "update_date": "2025-03-29",
+      "score": "9.6"
+    },
+    {
+      "title": "入間同學入魔了",
+      "chapter": "更新至第393話",
+      "url": "https://tw.manhuagui.com/comic/23394/",
+      "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
+      "update_date": "2025-05-02",
+      "score": "9.6"
+    },
+    {
+      "title": "咒術回戰",
+      "chapter": "更新至尾聲[完]",
+      "url": "https://tw.manhuagui.com/comic/28004/",
+      "cover_img": "//cf.mhgui.com/cpic/b/28004.jpg",
+      "update_date": "2025-01-10",
+      "score": "9.1"
+    },
+    {
+      "title": "全職法師",
+      "chapter": "更新至853 藍衣莫凡",
+      "url": "https://tw.manhuagui.com/comic/29821/",
+      "cover_img": "//cf.mhgui.com/cpic/b/29821.jpg",
+      "update_date": "2022-04-09",
+      "score": "8.5"
+    },
+    {
+      "title": "我的英雄學院",
+      "chapter": "更新至第41卷[完]",
+      "url": "https://tw.manhuagui.com/comic/13885/",
+      "cover_img": "//cf.mhgui.com/cpic/b/13885.jpg",
+      "update_date": "2025-04-18",
+      "score": "9.3"
+    },
+    {
+      "title": "純情丫頭火辣辣",
+      "chapter": "更新至第450話",
+      "url": "https://tw.manhuagui.com/comic/19300/",
+      "cover_img": "",
+      "update_date": "2019-05-08",
+      "score": "7.4"
+    },
+    {
+      "title": "星武神訣",
+      "chapter": "更新至第543話",
+      "url": "https://tw.manhuagui.com/comic/20568/",
+      "cover_img": "",
+      "update_date": "2022-05-07",
+      "score": "8.5"
+    },
+    {
+      "title": "七大罪",
+      "chapter": "更新至第41卷[完]",
+      "url": "https://tw.manhuagui.com/comic/7708/",
+      "cover_img": "",
+      "update_date": "2020-12-21",
+      "score": "9.3"
+    },
+    {
+      "title": "失格紋的最強賢者～世界最強的賢者為了變得更強而轉生了～",
+      "chapter": "更新至第94.5話",
+      "url": "https://tw.manhuagui.com/comic/25190/",
+      "cover_img": "",
+      "update_date": "2025-05-15",
+      "score": "8.8"
+    },
+    {
+      "title": "黑色五葉草",
+      "chapter": "更新至第380話",
+      "url": "https://tw.manhuagui.com/comic/16460/",
+      "cover_img": "",
+      "update_date": "2025-05-02",
+      "score": "8.8"
+    },
+    {
+      "title": "王者天下",
+      "chapter": "更新至第836話",
+      "url": "https://tw.manhuagui.com/comic/4841/",
+      "cover_img": "",
+      "update_date": "2025-05-15",
+      "score": "9.3"
+    },
+    {
+      "title": "從前有座靈劍山",
+      "chapter": "更新至第766章",
+      "url": "https://tw.manhuagui.com/comic/17102/",
+      "cover_img": "",
+      "update_date": "2022-04-25",
+      "score": "8.4"
+    },
+    {
+      "title": "豪門天價前妻",
+      "chapter": "更新至第772話 就要一間房",
+      "url": "https://tw.manhuagui.com/comic/24007/",
+      "cover_img": "",
+      "update_date": "2022-05-07",
+      "score": "7.4"
+    },
+    {
+      "title": "絕世唐門",
+      "chapter": "更新至第581話 第二魂靈2",
+      "url": "https://tw.manhuagui.com/comic/8356/",
+      "cover_img": "",
+      "update_date": "2020-12-04",
+      "score": "7.3"
+    },
+    {
+      "title": "輝夜姬想讓人告白~天才們的戀愛頭腦戰~",
+      "chapter": "更新至第28卷[完]",
+      "url": "https://tw.manhuagui.com/comic/17332/",
+      "cover_img": "",
+      "update_date": "2024-08-01",
+      "score": "9.3"
+    },
+    {
+      "title": "一拳超人原作版",
+      "chapter": "更新至第154話",
+      "url": "https://tw.manhuagui.com/comic/9637/",
+      "cover_img": "",
+      "update_date": "2025-05-11",
+      "score": "9.6"
+    },
+    {
+      "title": "Dr.STONE",
+      "chapter": "更新至官方人氣投票[完]",
+      "url": "https://tw.manhuagui.com/comic/23270/",
+      "cover_img": "",
+      "update_date": "2024-06-29",
+      "score": "8.7"
+    },
+    {
+      "title": "間諜過家家",
+      "chapter": "更新至第116話",
+      "url": "https://tw.manhuagui.com/comic/31550/",
+      "cover_img": "",
+      "update_date": "2025-05-12",
+      "score": "9.6"
+    },
+    {
+      "title": "靈劍尊",
+      "chapter": "更新至第502話 理應處死，以儆效尤",
+      "url": "https://tw.manhuagui.com/comic/25151/",
+      "cover_img": "",
+      "update_date": "2022-05-07",
+      "score": "7.9"
+    },
+    {
+      "title": "拳願奧米迦",
+      "chapter": "更新至第307話",
+      "url": "https://tw.manhuagui.com/comic/30782/",
+      "cover_img": "",
+      "update_date": "2025-05-15",
+      "score": "8.8"
+    },
+    {
+      "title": "平行天堂",
+      "chapter": "更新至第292話",
+      "url": "https://tw.manhuagui.com/comic/23333/",
+      "cover_img": "",
+      "update_date": "2025-05-04",
+      "score": "9.0"
+    },
+    {
+      "title": "轉生賢者的異世界生活~取得副職業併成為世界最強",
+      "chapter": "更新至第78.3話",
+      "url": "https://tw.manhuagui.com/comic/30278/",
+      "cover_img": "",
+      "update_date": "2025-05-15",
+      "score": "8.3"
+    },
+    {
+      "title": "國民老公帶回家：偷吻55次",
+      "chapter": "更新至最終話[完]",
+      "url": "https://tw.manhuagui.com/comic/20579/",
+      "cover_img": "",
+      "update_date": "2018-05-08",
+      "score": "8.6"
+    },
+    {
+      "title": "東京喰種RE",
+      "chapter": "更新至第16卷[完]",
+      "url": "https://tw.manhuagui.com/comic/16058/",
+      "cover_img": "",
+      "update_date": "2020-07-05",
+      "score": "9.3"
+    },
+    {
+      "title": "校花的貼身高手",
+      "chapter": "更新至第426話",
+      "url": "https://tw.manhuagui.com/comic/25956/",
+      "cover_img": "",
+      "update_date": "2018-06-02",
+      "score": "6.1"
+    },
+    {
+      "title": "電鋸人",
+      "chapter": "更新至第202話",
+      "url": "https://tw.manhuagui.com/comic/30252/",
+      "cover_img": "",
+      "update_date": "2025-05-07",
+      "score": "9.4"
+    },
+    {
+      "title": "哥布林殺手",
+      "chapter": "更新至第94話",
+      "url": "https://tw.manhuagui.com/comic/20515/",
+      "cover_img": "",
+      "update_date": "2025-03-06",
+      "score": "8.9"
+    },
+    {
+      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
+      "chapter": "更新至第220話",
+      "url": "https://tw.manhuagui.com/comic/36998/",
+      "cover_img": "",
+      "update_date": "2025-05-08",
+      "score": "9.3"
+    },
+    {
+      "title": "葬送者芙莉蓮",
+      "chapter": "更新至第140話",
+      "url": "https://tw.manhuagui.com/comic/35937/",
+      "cover_img": "",
+      "update_date": "2024-12-25",
+      "score": "9.6"
+    },
+    {
+      "title": "絕世武神",
+      "chapter": "更新至第155話3 師兄妹",
+      "url": "https://tw.manhuagui.com/comic/22058/",
+      "cover_img": "",
+      "update_date": "2022-05-07",
+      "score": "8.5"
+    },
+    {
+      "title": "進擊的巨人",
+      "chapter": "更新至第34卷",
+      "url": "https://tw.manhuagui.com/comic/4740/",
+      "cover_img": "",
+      "update_date": "2022-01-08",
+      "score": "9.3"
+    },
+    {
+      "title": "五等分的花嫁",
+      "chapter": "更新至五醬與鬆餅上篇",
+      "url": "https://tw.manhuagui.com/comic/22843/",
+      "cover_img": "",
+      "update_date": "2025-03-18",
+      "score": "9.0"
+    },
+    {
+      "title": "家有女友",
+      "chapter": "更新至電子版13[完]",
+      "url": "https://tw.manhuagui.com/comic/12912/",
+      "cover_img": "",
+      "update_date": "2024-05-21",
+      "score": "9.3"
+    },
+    {
+      "title": "異世界悠閒農家",
+      "chapter": "更新至第253話",
+      "url": "https://tw.manhuagui.com/comic/25882/",
+      "cover_img": "",
+      "update_date": "2025-03-13",
+      "score": "8.9"
+    },
+    {
+      "title": "轉生成蜘蛛又怎樣！",
+      "chapter": "更新至第74.1話",
+      "url": "https://tw.manhuagui.com/comic/19258/",
+      "cover_img": "",
+      "update_date": "2025-04-15",
+      "score": "9.0"
+    }
+  ]
+}
