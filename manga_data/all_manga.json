@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-05-20 12:55:25",
+  "crawl_date": "2025-05-24 13:18:09",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1148話",
+      "chapter": "更新至第1149話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-05-08",
+      "update_date": "2025-05-23",
       "score": "9.2"
     },
     {
@@ -212,10 +212,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第307話",
+      "chapter": "更新至第308話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-05-15",
+      "update_date": "2025-05-22",
       "score": "8.8"
     },
     {
@@ -260,10 +260,10 @@
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第202話",
+      "chapter": "更新至第203話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2025-05-07",
+      "update_date": "2025-05-21",
       "score": "9.4"
     },
     {
