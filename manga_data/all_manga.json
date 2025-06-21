@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-06-14 13:17:37",
+  "crawl_date": "2025-06-21 13:18:13",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,18 +20,18 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第256話重製版",
+      "chapter": "更新至新251話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2024-12-26",
+      "update_date": "2025-06-21",
       "score": "9.3"
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1151話",
+      "chapter": "更新至第1152話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-06-06",
+      "update_date": "2025-06-20",
       "score": "9.2"
     },
     {
@@ -136,14 +136,14 @@
       "url": "https://tw.manhuagui.com/comic/16460/",
       "cover_img": "",
       "update_date": "2025-05-02",
-      "score": "8.7"
+      "score": "8.8"
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第839話",
+      "chapter": "更新至第840話 讓渡",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-06-12",
+      "update_date": "2025-06-20",
       "score": "9.3"
     },
     {
@@ -220,10 +220,10 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第292話",
+      "chapter": "更新至第293話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
-      "update_date": "2025-05-04",
+      "update_date": "2025-06-21",
       "score": "9.0"
     },
     {
@@ -260,10 +260,10 @@
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第205話",
+      "chapter": "更新至第206話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2025-06-11",
+      "update_date": "2025-06-18",
       "score": "9.3"
     },
     {
@@ -332,11 +332,11 @@
     },
     {
       "title": "轉生成蜘蛛又怎樣！",
-      "chapter": "更新至第74.1話",
+      "chapter": "更新至第75.1話",
       "url": "https://tw.manhuagui.com/comic/19258/",
       "cover_img": "",
-      "update_date": "2025-04-15",
-      "score": "9.0"
+      "update_date": "2025-06-21",
+      "score": "8.9"
     }
   ]
 }
