@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-07-05 13:18:07",
+  "crawl_date": "2025-07-19 13:21:20",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,18 +20,18 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至新254話",
+      "chapter": "更新至新255話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2025-06-24",
+      "update_date": "2025-07-17",
       "score": "9.3"
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1153話",
+      "chapter": "更新至第1155話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-06-27",
+      "update_date": "2025-07-17",
       "score": "9.2"
     },
     {
@@ -68,10 +68,10 @@
     },
     {
       "title": "入間同學入魔了",
-      "chapter": "更新至第400話",
+      "chapter": "更新至第404話",
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
-      "update_date": "2025-06-25",
+      "update_date": "2025-07-19",
       "score": "9.6"
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "title": "失格紋的最強賢者～世界最強的賢者為了變得更強而轉生了～",
-      "chapter": "更新至第96.2話",
+      "chapter": "更新至第97.1話",
       "url": "https://tw.manhuagui.com/comic/25190/",
       "cover_img": "",
-      "update_date": "2025-06-29",
+      "update_date": "2025-07-15",
       "score": "8.9"
     },
     {
@@ -136,14 +136,14 @@
       "url": "https://tw.manhuagui.com/comic/16460/",
       "cover_img": "",
       "update_date": "2025-05-02",
-      "score": "8.8"
+      "score": "8.9"
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第842話",
+      "chapter": "更新至第843話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-07-04",
+      "update_date": "2025-07-17",
       "score": "9.3"
     },
     {
@@ -180,10 +180,10 @@
     },
     {
       "title": "一拳超人原作版",
-      "chapter": "更新至第154話",
+      "chapter": "更新至第155話",
       "url": "https://tw.manhuagui.com/comic/9637/",
       "cover_img": "",
-      "update_date": "2025-05-11",
+      "update_date": "2025-07-15",
       "score": "9.6"
     },
     {
@@ -196,10 +196,10 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第118話",
+      "chapter": "更新至第119話",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2025-06-23",
+      "update_date": "2025-07-07",
       "score": "9.6"
     },
     {
@@ -212,18 +212,18 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第314話",
+      "chapter": "更新至第316話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-07-04",
-      "score": "8.8"
+      "update_date": "2025-07-17",
+      "score": "8.9"
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第297話",
+      "chapter": "更新至第298話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
-      "update_date": "2025-07-05",
+      "update_date": "2025-07-06",
       "score": "9.1"
     },
     {
@@ -256,14 +256,14 @@
       "url": "https://tw.manhuagui.com/comic/25956/",
       "cover_img": "",
       "update_date": "2018-06-02",
-      "score": "6.1"
+      "score": "6.0"
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第207話",
+      "chapter": "更新至第208話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2025-07-02",
+      "update_date": "2025-07-09",
       "score": "9.3"
     },
     {
@@ -276,10 +276,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第226話",
+      "chapter": "更新至第229話",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2025-06-30",
+      "update_date": "2025-07-19",
       "score": "9.3"
     },
     {
@@ -336,7 +336,7 @@
       "url": "https://tw.manhuagui.com/comic/19258/",
       "cover_img": "",
       "update_date": "2025-06-29",
-      "score": "8.9"
+      "score": "9.0"
     }
   ]
 }
