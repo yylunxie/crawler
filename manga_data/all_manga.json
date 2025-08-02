@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-07-19 13:21:20",
+  "crawl_date": "2025-08-02 13:22:40",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,10 +20,10 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至新255話",
+      "chapter": "更新至新256話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2025-07-17",
+      "update_date": "2025-07-31",
       "score": "9.3"
     },
     {
@@ -31,7 +31,7 @@
       "chapter": "更新至第1155話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-07-17",
+      "update_date": "2025-07-22",
       "score": "9.2"
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "title": "失格紋的最強賢者～世界最強的賢者為了變得更強而轉生了～",
-      "chapter": "更新至第97.1話",
+      "chapter": "更新至第97.2話",
       "url": "https://tw.manhuagui.com/comic/25190/",
       "cover_img": "",
-      "update_date": "2025-07-15",
+      "update_date": "2025-07-22",
       "score": "8.9"
     },
     {
@@ -136,14 +136,14 @@
       "url": "https://tw.manhuagui.com/comic/16460/",
       "cover_img": "",
       "update_date": "2025-05-02",
-      "score": "8.9"
+      "score": "9.0"
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第843話",
+      "chapter": "更新至第845話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-07-17",
+      "update_date": "2025-07-31",
       "score": "9.3"
     },
     {
@@ -196,11 +196,19 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第119話",
+      "chapter": "更新至第120話",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2025-07-07",
+      "update_date": "2025-07-21",
       "score": "9.6"
+    },
+    {
+      "title": "拳願奧米迦",
+      "chapter": "更新至第317話",
+      "url": "https://tw.manhuagui.com/comic/30782/",
+      "cover_img": "",
+      "update_date": "2025-07-24",
+      "score": "8.9"
     },
     {
       "title": "靈劍尊",
@@ -209,14 +217,6 @@
       "cover_img": "",
       "update_date": "2022-05-07",
       "score": "7.9"
-    },
-    {
-      "title": "拳願奧米迦",
-      "chapter": "更新至第316話",
-      "url": "https://tw.manhuagui.com/comic/30782/",
-      "cover_img": "",
-      "update_date": "2025-07-17",
-      "score": "8.9"
     },
     {
       "title": "平行天堂",
@@ -228,11 +228,11 @@
     },
     {
       "title": "轉生賢者的異世界生活~取得副職業併成為世界最強",
-      "chapter": "更新至第79.4話",
+      "chapter": "更新至第80.5話",
       "url": "https://tw.manhuagui.com/comic/30278/",
       "cover_img": "",
-      "update_date": "2025-06-27",
-      "score": "8.3"
+      "update_date": "2025-07-30",
+      "score": "8.2"
     },
     {
       "title": "國民老公帶回家：偷吻55次",
@@ -260,10 +260,18 @@
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第208話",
+      "chapter": "更新至第210話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2025-07-09",
+      "update_date": "2025-07-30",
+      "score": "9.3"
+    },
+    {
+      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
+      "chapter": "更新至第229話",
+      "url": "https://tw.manhuagui.com/comic/36998/",
+      "cover_img": "",
+      "update_date": "2025-07-19",
       "score": "9.3"
     },
     {
@@ -275,19 +283,11 @@
       "score": "8.9"
     },
     {
-      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第229話",
-      "url": "https://tw.manhuagui.com/comic/36998/",
-      "cover_img": "",
-      "update_date": "2025-07-19",
-      "score": "9.3"
-    },
-    {
       "title": "葬送者芙莉蓮",
-      "chapter": "更新至第140話",
+      "chapter": "更新至第141話",
       "url": "https://tw.manhuagui.com/comic/35937/",
       "cover_img": "",
-      "update_date": "2024-12-25",
+      "update_date": "2025-07-23",
       "score": "9.6"
     },
     {
