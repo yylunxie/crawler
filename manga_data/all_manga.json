@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-08-02 13:22:40",
+  "crawl_date": "2025-08-09 13:20:55",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -8,7 +8,7 @@
       "url": "https://tw.manhuagui.com/comic/19430/",
       "cover_img": "//cf.mhgui.com/cpic/b/19430.jpg",
       "update_date": "2021-08-21",
-      "score": "9.2"
+      "score": "9.3"
     },
     {
       "title": "鬥破蒼穹",
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1155話",
+      "chapter": "更新至第1156話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-07-22",
+      "update_date": "2025-08-06",
       "score": "9.2"
     },
     {
@@ -140,10 +140,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第845話",
+      "chapter": "更新至第846話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-07-31",
+      "update_date": "2025-08-07",
       "score": "9.3"
     },
     {
@@ -196,19 +196,19 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第120話",
+      "chapter": "更新至番外17",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2025-07-21",
+      "update_date": "2025-08-04",
       "score": "9.6"
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第317話",
+      "chapter": "更新至第318話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-07-24",
-      "score": "8.9"
+      "update_date": "2025-08-07",
+      "score": "9.0"
     },
     {
       "title": "靈劍尊",
@@ -220,11 +220,11 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第298話",
+      "chapter": "更新至第300話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
-      "update_date": "2025-07-06",
-      "score": "9.1"
+      "update_date": "2025-08-06",
+      "score": "9.2"
     },
     {
       "title": "轉生賢者的異世界生活~取得副職業併成為世界最強",
@@ -272,7 +272,7 @@
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
       "update_date": "2025-07-19",
-      "score": "9.3"
+      "score": "9.4"
     },
     {
       "title": "哥布林殺手",
@@ -284,10 +284,10 @@
     },
     {
       "title": "葬送者芙莉蓮",
-      "chapter": "更新至第141話",
+      "chapter": "更新至第142話",
       "url": "https://tw.manhuagui.com/comic/35937/",
       "cover_img": "",
-      "update_date": "2025-07-23",
+      "update_date": "2025-08-06",
       "score": "9.6"
     },
     {
