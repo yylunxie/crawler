@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-08-23 13:15:42",
+  "crawl_date": "2025-08-30 13:13:52",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,18 +20,18 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第257話",
+      "chapter": "更新至第258話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2025-08-14",
+      "update_date": "2025-08-28",
       "score": "9.3"
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1157話",
+      "chapter": "更新至第1158話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-08-13",
+      "update_date": "2025-08-30",
       "score": "9.3"
     },
     {
@@ -60,10 +60,10 @@
     },
     {
       "title": "關於我轉生後成為史萊姆的那件事",
-      "chapter": "更新至第132話",
+      "chapter": "更新至第133話",
       "url": "https://tw.manhuagui.com/comic/17023/",
       "cover_img": "//cf.mhgui.com/cpic/b/17023_24.jpg",
-      "update_date": "2025-08-14",
+      "update_date": "2025-08-29",
       "score": "9.6"
     },
     {
@@ -120,7 +120,7 @@
       "url": "https://tw.manhuagui.com/comic/7708/",
       "cover_img": "",
       "update_date": "2020-12-21",
-      "score": "9.3"
+      "score": "9.4"
     },
     {
       "title": "失格紋的最強賢者～世界最強的賢者為了變得更強而轉生了～",
@@ -140,11 +140,11 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第846話",
+      "chapter": "更新至第847話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-08-07",
-      "score": "9.3"
+      "update_date": "2025-08-28",
+      "score": "9.4"
     },
     {
       "title": "從前有座靈劍山",
@@ -204,10 +204,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第320話",
+      "chapter": "更新至第321話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-08-21",
+      "update_date": "2025-08-28",
       "score": "9.0"
     },
     {
@@ -268,10 +268,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第229話",
+      "chapter": "更新至第230話",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2025-07-19",
+      "update_date": "2025-08-30",
       "score": "9.3"
     },
     {
@@ -304,7 +304,7 @@
       "url": "https://tw.manhuagui.com/comic/4740/",
       "cover_img": "",
       "update_date": "2022-01-08",
-      "score": "9.3"
+      "score": "9.4"
     },
     {
       "title": "五等分的花嫁",
@@ -323,20 +323,20 @@
       "score": "9.4"
     },
     {
-      "title": "異世界悠閒農家",
-      "chapter": "更新至第253話",
-      "url": "https://tw.manhuagui.com/comic/25882/",
-      "cover_img": "",
-      "update_date": "2025-03-13",
-      "score": "8.9"
-    },
-    {
       "title": "轉生七王子的魔法全解",
       "chapter": "更新至第206話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "2025-07-21",
       "score": "9.2"
+    },
+    {
+      "title": "異世界悠閒農家",
+      "chapter": "更新至第253話",
+      "url": "https://tw.manhuagui.com/comic/25882/",
+      "cover_img": "",
+      "update_date": "2025-03-13",
+      "score": "8.9"
     }
   ]
 }
