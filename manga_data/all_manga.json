@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-08-30 13:13:52",
+  "crawl_date": "2025-09-06 13:11:52",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1158話",
+      "chapter": "更新至第1159話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-08-30",
+      "update_date": "2025-09-05",
       "score": "9.3"
     },
     {
@@ -140,10 +140,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第847話",
+      "chapter": "更新至第848話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-08-28",
+      "update_date": "2025-09-04",
       "score": "9.4"
     },
     {
@@ -196,18 +196,18 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第121話",
+      "chapter": "更新至第122話",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2025-08-18",
+      "update_date": "2025-09-01",
       "score": "9.6"
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第321話",
+      "chapter": "更新至第322話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-08-28",
+      "update_date": "2025-09-04",
       "score": "9.0"
     },
     {
@@ -260,18 +260,18 @@
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第212話",
+      "chapter": "更新至第213話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2025-08-20",
+      "update_date": "2025-09-03",
       "score": "9.4"
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第230話",
+      "chapter": "更新至第232話",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2025-08-30",
+      "update_date": "2025-08-31",
       "score": "9.3"
     },
     {
@@ -284,10 +284,10 @@
     },
     {
       "title": "葬送者芙莉蓮",
-      "chapter": "更新至第143話",
+      "chapter": "更新至第144話",
       "url": "https://tw.manhuagui.com/comic/35937/",
       "cover_img": "",
-      "update_date": "2025-08-20",
+      "update_date": "2025-09-03",
       "score": "9.6"
     },
     {
@@ -320,7 +320,7 @@
       "url": "https://tw.manhuagui.com/comic/12912/",
       "cover_img": "",
       "update_date": "2024-05-21",
-      "score": "9.4"
+      "score": "9.3"
     },
     {
       "title": "轉生七王子的魔法全解",
