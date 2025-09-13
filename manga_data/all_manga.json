@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-09-06 13:11:52",
+  "crawl_date": "2025-09-13 13:11:33",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,18 +20,18 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第258話",
+      "chapter": "更新至第259話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2025-08-28",
-      "score": "9.3"
+      "update_date": "2025-09-11",
+      "score": "9.4"
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1159話",
+      "chapter": "更新至第1160話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-09-05",
+      "update_date": "2025-09-13",
       "score": "9.3"
     },
     {
@@ -140,10 +140,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第848話",
+      "chapter": "更新至第849話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-09-04",
+      "update_date": "2025-09-11",
       "score": "9.4"
     },
     {
@@ -204,10 +204,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第322話",
+      "chapter": "更新至第323話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-09-04",
+      "update_date": "2025-09-11",
       "score": "9.0"
     },
     {
@@ -220,10 +220,10 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第301話",
+      "chapter": "更新至第303話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
-      "update_date": "2025-08-10",
+      "update_date": "2025-09-09",
       "score": "9.2"
     },
     {
@@ -232,7 +232,7 @@
       "url": "https://tw.manhuagui.com/comic/30278/",
       "cover_img": "",
       "update_date": "2025-07-30",
-      "score": "8.2"
+      "score": "8.1"
     },
     {
       "title": "國民老公帶回家：偷吻55次",
@@ -268,10 +268,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第232話",
+      "chapter": "更新至第235話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2025-08-31",
+      "update_date": "2025-09-13",
       "score": "9.3"
     },
     {
@@ -324,10 +324,10 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第206話",
+      "chapter": "更新至第206.5話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
-      "update_date": "2025-07-21",
+      "update_date": "2025-09-08",
       "score": "9.2"
     },
     {
