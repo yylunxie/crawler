@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-09-13 13:11:33",
+  "crawl_date": "2025-09-20 13:13:26",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -31,7 +31,7 @@
       "chapter": "更新至第1160話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-09-13",
+      "update_date": "2025-09-17",
       "score": "9.3"
     },
     {
@@ -76,11 +76,11 @@
     },
     {
       "title": "咒術回戰",
-      "chapter": "更新至尾聲[完]",
+      "chapter": "更新至第29卷[完]",
       "url": "https://tw.manhuagui.com/comic/28004/",
       "cover_img": "//cf.mhgui.com/cpic/b/28004.jpg",
-      "update_date": "2025-01-10",
-      "score": "9.2"
+      "update_date": "2025-09-13",
+      "score": "9.3"
     },
     {
       "title": "全職法師",
@@ -120,7 +120,7 @@
       "url": "https://tw.manhuagui.com/comic/7708/",
       "cover_img": "",
       "update_date": "2020-12-21",
-      "score": "9.4"
+      "score": "9.3"
     },
     {
       "title": "失格紋的最強賢者～世界最強的賢者為了變得更強而轉生了～",
@@ -128,7 +128,7 @@
       "url": "https://tw.manhuagui.com/comic/25190/",
       "cover_img": "",
       "update_date": "2025-07-22",
-      "score": "9.0"
+      "score": "9.1"
     },
     {
       "title": "黑色五葉草",
@@ -140,10 +140,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第849話",
+      "chapter": "更新至第850話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-09-11",
+      "update_date": "2025-09-18",
       "score": "9.4"
     },
     {
@@ -196,18 +196,18 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第122話",
+      "chapter": "更新至第123話前篇",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2025-09-01",
+      "update_date": "2025-09-15",
       "score": "9.6"
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第323話",
+      "chapter": "更新至第324話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-09-11",
+      "update_date": "2025-09-18",
       "score": "9.0"
     },
     {
@@ -248,7 +248,7 @@
       "url": "https://tw.manhuagui.com/comic/16058/",
       "cover_img": "",
       "update_date": "2020-07-05",
-      "score": "9.3"
+      "score": "9.2"
     },
     {
       "title": "校花的貼身高手",
@@ -260,18 +260,18 @@
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第213話",
+      "chapter": "更新至第214話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2025-09-03",
+      "update_date": "2025-09-17",
       "score": "9.4"
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第235話試看",
+      "chapter": "更新至第236話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2025-09-13",
+      "update_date": "2025-09-19",
       "score": "9.3"
     },
     {
@@ -284,10 +284,10 @@
     },
     {
       "title": "葬送者芙莉蓮",
-      "chapter": "更新至第144話",
+      "chapter": "更新至第145話",
       "url": "https://tw.manhuagui.com/comic/35937/",
       "cover_img": "",
-      "update_date": "2025-09-03",
+      "update_date": "2025-09-17",
       "score": "9.6"
     },
     {
@@ -324,19 +324,19 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第206.5話",
+      "chapter": "更新至第207話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
-      "update_date": "2025-09-08",
-      "score": "9.2"
+      "update_date": "2025-09-14",
+      "score": "9.1"
     },
     {
-      "title": "異世界悠閒農家",
-      "chapter": "更新至第253話",
-      "url": "https://tw.manhuagui.com/comic/25882/",
+      "title": "怪獸8號",
+      "chapter": "更新至第129話",
+      "url": "https://tw.manhuagui.com/comic/36859/",
       "cover_img": "",
-      "update_date": "2025-03-13",
-      "score": "8.9"
+      "update_date": "2025-07-18",
+      "score": "8.6"
     }
   ]
 }
