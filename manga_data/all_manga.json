@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-09-27 13:12:40",
+  "crawl_date": "2025-10-04 13:11:54",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -24,14 +24,14 @@
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
       "update_date": "2025-09-25",
-      "score": "9.4"
+      "score": "9.3"
     },
     {
       "title": "ONE PIECE航海王",
       "chapter": "更新至第1161話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-09-27",
+      "update_date": "2025-10-01",
       "score": "9.3"
     },
     {
@@ -60,11 +60,11 @@
     },
     {
       "title": "關於我轉生後成為史萊姆的那件事",
-      "chapter": "更新至第133話",
+      "chapter": "更新至第134話",
       "url": "https://tw.manhuagui.com/comic/17023/",
       "cover_img": "//cf.mhgui.com/cpic/b/17023_24.jpg",
-      "update_date": "2025-08-29",
-      "score": "9.6"
+      "update_date": "2025-10-01",
+      "score": "9.5"
     },
     {
       "title": "入間同學入魔了",
@@ -140,10 +140,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第851話",
+      "chapter": "更新至第852話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-09-26",
+      "update_date": "2025-10-01",
       "score": "9.3"
     },
     {
@@ -196,18 +196,18 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第123話前篇",
+      "chapter": "更新至第123話後篇",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2025-09-15",
+      "update_date": "2025-09-29",
       "score": "9.6"
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第325話",
+      "chapter": "更新至第326話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-09-25",
+      "update_date": "2025-10-02",
       "score": "9.0"
     },
     {
@@ -235,6 +235,14 @@
       "score": "8.1"
     },
     {
+      "title": "電鋸人",
+      "chapter": "更新至第216話",
+      "url": "https://tw.manhuagui.com/comic/30252/",
+      "cover_img": "",
+      "update_date": "2025-10-01",
+      "score": "9.4"
+    },
+    {
       "title": "國民老公帶回家：偷吻55次",
       "chapter": "更新至最終話[完]",
       "url": "https://tw.manhuagui.com/comic/20579/",
@@ -259,14 +267,6 @@
       "score": "6.0"
     },
     {
-      "title": "電鋸人",
-      "chapter": "更新至第215話",
-      "url": "https://tw.manhuagui.com/comic/30252/",
-      "cover_img": "",
-      "update_date": "2025-09-24",
-      "score": "9.4"
-    },
-    {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
       "chapter": "更新至第237話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
@@ -275,20 +275,20 @@
       "score": "9.3"
     },
     {
+      "title": "葬送者芙莉蓮",
+      "chapter": "更新至第146話",
+      "url": "https://tw.manhuagui.com/comic/35937/",
+      "cover_img": "",
+      "update_date": "2025-10-01",
+      "score": "9.6"
+    },
+    {
       "title": "哥布林殺手",
       "chapter": "更新至第98話",
       "url": "https://tw.manhuagui.com/comic/20515/",
       "cover_img": "",
       "update_date": "2025-09-22",
       "score": "8.9"
-    },
-    {
-      "title": "葬送者芙莉蓮",
-      "chapter": "更新至第145話",
-      "url": "https://tw.manhuagui.com/comic/35937/",
-      "cover_img": "",
-      "update_date": "2025-09-17",
-      "score": "9.6"
     },
     {
       "title": "絕世武神",
@@ -307,6 +307,14 @@
       "score": "9.3"
     },
     {
+      "title": "轉生七王子的魔法全解",
+      "chapter": "更新至第208話",
+      "url": "https://tw.manhuagui.com/comic/36948/",
+      "cover_img": "",
+      "update_date": "2025-09-29",
+      "score": "9.2"
+    },
+    {
       "title": "五等分的花嫁",
       "chapter": "更新至五醬與鬆餅上篇",
       "url": "https://tw.manhuagui.com/comic/22843/",
@@ -321,14 +329,6 @@
       "cover_img": "",
       "update_date": "2024-05-21",
       "score": "9.3"
-    },
-    {
-      "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第207話",
-      "url": "https://tw.manhuagui.com/comic/36948/",
-      "cover_img": "",
-      "update_date": "2025-09-14",
-      "score": "9.1"
     },
     {
       "title": "怪獸8號",
