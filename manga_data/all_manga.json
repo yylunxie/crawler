@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-10-04 13:11:54",
+  "crawl_date": "2025-10-11 13:12:26",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,18 +20,18 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第260話",
+      "chapter": "更新至重製版35卷番外篇",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2025-09-25",
+      "update_date": "2025-10-09",
       "score": "9.3"
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1161話",
+      "chapter": "更新至第1162話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-10-01",
+      "update_date": "2025-10-10",
       "score": "9.3"
     },
     {
@@ -92,10 +92,10 @@
     },
     {
       "title": "我的英雄學院",
-      "chapter": "更新至第41卷[完]",
+      "chapter": "更新至第42卷[完]",
       "url": "https://tw.manhuagui.com/comic/13885/",
       "cover_img": "//cf.mhgui.com/cpic/b/13885.jpg",
-      "update_date": "2025-04-18",
+      "update_date": "2025-10-07",
       "score": "9.4"
     },
     {
@@ -131,20 +131,20 @@
       "score": "9.1"
     },
     {
+      "title": "王者天下",
+      "chapter": "更新至第72卷",
+      "url": "https://tw.manhuagui.com/comic/4841/",
+      "cover_img": "",
+      "update_date": "2025-10-06",
+      "score": "9.3"
+    },
+    {
       "title": "黑色五葉草",
       "chapter": "更新至第383話",
       "url": "https://tw.manhuagui.com/comic/16460/",
       "cover_img": "",
       "update_date": "2025-08-12",
       "score": "9.0"
-    },
-    {
-      "title": "王者天下",
-      "chapter": "更新至第852話",
-      "url": "https://tw.manhuagui.com/comic/4841/",
-      "cover_img": "",
-      "update_date": "2025-10-01",
-      "score": "9.3"
     },
     {
       "title": "從前有座靈劍山",
@@ -204,10 +204,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第326話",
+      "chapter": "更新至第327話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-10-02",
+      "update_date": "2025-10-09",
       "score": "9.0"
     },
     {
@@ -240,7 +240,7 @@
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
       "update_date": "2025-10-01",
-      "score": "9.4"
+      "score": "9.5"
     },
     {
       "title": "國民老公帶回家：偷吻55次",
@@ -268,10 +268,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第237話試看",
+      "chapter": "更新至第239話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2025-09-24",
+      "update_date": "2025-10-11",
       "score": "9.3"
     },
     {
@@ -312,7 +312,7 @@
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "2025-09-29",
-      "score": "9.2"
+      "score": "9.1"
     },
     {
       "title": "五等分的花嫁",
