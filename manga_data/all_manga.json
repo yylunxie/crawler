@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-10-18 13:13:48",
+  "crawl_date": "2025-10-25 13:13:46",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,18 +20,18 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至重製版35卷番外篇",
+      "chapter": "更新至第262話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2025-10-09",
+      "update_date": "2025-10-23",
       "score": "9.3"
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1162話",
+      "chapter": "更新至第1163話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-10-16",
+      "update_date": "2025-10-24",
       "score": "9.3"
     },
     {
@@ -96,7 +96,7 @@
       "url": "https://tw.manhuagui.com/comic/13885/",
       "cover_img": "//cf.mhgui.com/cpic/b/13885.jpg",
       "update_date": "2025-10-07",
-      "score": "9.4"
+      "score": "9.3"
     },
     {
       "title": "純情丫頭火辣辣",
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第853話",
+      "chapter": "更新至第854話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-10-16",
+      "update_date": "2025-10-23",
       "score": "9.3"
     },
     {
@@ -227,20 +227,20 @@
       "score": "9.2"
     },
     {
-      "title": "轉生賢者的異世界生活~取得副職業併成為世界最強",
-      "chapter": "更新至第80.5話",
-      "url": "https://tw.manhuagui.com/comic/30278/",
-      "cover_img": "",
-      "update_date": "2025-07-30",
-      "score": "8.1"
-    },
-    {
       "title": "電鋸人",
       "chapter": "更新至第217話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
       "update_date": "2025-10-15",
       "score": "9.5"
+    },
+    {
+      "title": "轉生賢者的異世界生活~取得副職業併成為世界最強",
+      "chapter": "更新至第80.5話",
+      "url": "https://tw.manhuagui.com/comic/30278/",
+      "cover_img": "",
+      "update_date": "2025-07-30",
+      "score": "8.1"
     },
     {
       "title": "國民老公帶回家：偷吻55次",
@@ -312,15 +312,7 @@
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "2025-10-16",
-      "score": "9.1"
-    },
-    {
-      "title": "五等分的花嫁",
-      "chapter": "更新至五醬與鬆餅上篇",
-      "url": "https://tw.manhuagui.com/comic/22843/",
-      "cover_img": "",
-      "update_date": "2025-03-18",
-      "score": "9.0"
+      "score": "9.2"
     },
     {
       "title": "家有女友",
@@ -331,12 +323,20 @@
       "score": "9.3"
     },
     {
+      "title": "五等分的花嫁",
+      "chapter": "更新至五醬與鬆餅上篇",
+      "url": "https://tw.manhuagui.com/comic/22843/",
+      "cover_img": "",
+      "update_date": "2025-03-18",
+      "score": "9.0"
+    },
+    {
       "title": "怪獸8號",
       "chapter": "更新至第129話",
       "url": "https://tw.manhuagui.com/comic/36859/",
       "cover_img": "",
       "update_date": "2025-07-18",
-      "score": "8.6"
+      "score": "8.5"
     }
   ]
 }
