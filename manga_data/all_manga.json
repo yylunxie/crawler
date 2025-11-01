@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-10-25 13:13:46",
+  "crawl_date": "2025-11-01 13:14:33",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1163話",
+      "chapter": "更新至第1164話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-10-24",
+      "update_date": "2025-10-31",
       "score": "9.3"
     },
     {
@@ -60,10 +60,10 @@
     },
     {
       "title": "關於我轉生後成為史萊姆的那件事",
-      "chapter": "更新至第134話",
+      "chapter": "更新至第135話",
       "url": "https://tw.manhuagui.com/comic/17023/",
       "cover_img": "//cf.mhgui.com/cpic/b/17023_24.jpg",
-      "update_date": "2025-10-01",
+      "update_date": "2025-10-29",
       "score": "9.5"
     },
     {
@@ -132,18 +132,18 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第854話",
+      "chapter": "更新至第855話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-10-23",
+      "update_date": "2025-10-29",
       "score": "9.3"
     },
     {
       "title": "黑色五葉草",
-      "chapter": "更新至第383話",
+      "chapter": "更新至第386話",
       "url": "https://tw.manhuagui.com/comic/16460/",
       "cover_img": "",
-      "update_date": "2025-08-12",
+      "update_date": "2025-10-31",
       "score": "9.0"
     },
     {
@@ -180,10 +180,18 @@
     },
     {
       "title": "一拳超人原作版",
-      "chapter": "更新至第155話",
+      "chapter": "更新至第156話",
       "url": "https://tw.manhuagui.com/comic/9637/",
       "cover_img": "",
-      "update_date": "2025-07-15",
+      "update_date": "2025-10-30",
+      "score": "9.6"
+    },
+    {
+      "title": "間諜過家家",
+      "chapter": "更新至休刊插圖3",
+      "url": "https://tw.manhuagui.com/comic/31550/",
+      "cover_img": "",
+      "update_date": "2025-10-14",
       "score": "9.6"
     },
     {
@@ -195,19 +203,11 @@
       "score": "8.7"
     },
     {
-      "title": "間諜過家家",
-      "chapter": "更新至休刊插圖3",
-      "url": "https://tw.manhuagui.com/comic/31550/",
-      "cover_img": "",
-      "update_date": "2025-10-14",
-      "score": "9.6"
-    },
-    {
       "title": "拳願奧米迦",
-      "chapter": "更新至第328話",
+      "chapter": "更新至第329話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-10-17",
+      "update_date": "2025-10-30",
       "score": "9.0"
     },
     {
@@ -219,20 +219,20 @@
       "score": "7.9"
     },
     {
-      "title": "平行天堂",
-      "chapter": "更新至第305話",
-      "url": "https://tw.manhuagui.com/comic/23333/",
-      "cover_img": "",
-      "update_date": "2025-09-23",
-      "score": "9.2"
-    },
-    {
       "title": "電鋸人",
-      "chapter": "更新至第217話",
+      "chapter": "更新至第218話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2025-10-15",
+      "update_date": "2025-10-29",
       "score": "9.5"
+    },
+    {
+      "title": "平行天堂",
+      "chapter": "更新至第309話",
+      "url": "https://tw.manhuagui.com/comic/23333/",
+      "cover_img": "",
+      "update_date": "2025-10-29",
+      "score": "9.2"
     },
     {
       "title": "轉生賢者的異世界生活~取得副職業併成為世界最強",
@@ -259,20 +259,20 @@
       "score": "9.2"
     },
     {
+      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
+      "chapter": "更新至第242話試看",
+      "url": "https://tw.manhuagui.com/comic/36998/",
+      "cover_img": "",
+      "update_date": "2025-10-31",
+      "score": "9.2"
+    },
+    {
       "title": "校花的貼身高手",
       "chapter": "更新至第426話",
       "url": "https://tw.manhuagui.com/comic/25956/",
       "cover_img": "",
       "update_date": "2018-06-02",
       "score": "6.0"
-    },
-    {
-      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第240話試看",
-      "url": "https://tw.manhuagui.com/comic/36998/",
-      "cover_img": "",
-      "update_date": "2025-10-15",
-      "score": "9.3"
     },
     {
       "title": "葬送者芙莉蓮",
@@ -308,10 +308,10 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第209話",
+      "chapter": "更新至第210話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
-      "update_date": "2025-10-16",
+      "update_date": "2025-10-31",
       "score": "9.2"
     },
     {
