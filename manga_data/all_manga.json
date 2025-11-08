@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-11-01 13:14:33",
+  "crawl_date": "2025-11-08 13:14:43",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -8,7 +8,7 @@
       "url": "https://tw.manhuagui.com/comic/19430/",
       "cover_img": "//cf.mhgui.com/cpic/b/19430.jpg",
       "update_date": "2021-08-21",
-      "score": "9.3"
+      "score": "9.4"
     },
     {
       "title": "鬥破蒼穹",
@@ -20,10 +20,10 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第262話",
+      "chapter": "更新至重製版35卷⑥ 最不能碰見的傢伙",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2025-10-23",
+      "update_date": "2025-11-07",
       "score": "9.3"
     },
     {
@@ -128,7 +128,7 @@
       "url": "https://tw.manhuagui.com/comic/25190/",
       "cover_img": "",
       "update_date": "2025-07-22",
-      "score": "9.1"
+      "score": "9.2"
     },
     {
       "title": "王者天下",
@@ -204,10 +204,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第329話",
+      "chapter": "更新至第330話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-10-30",
+      "update_date": "2025-11-08",
       "score": "9.0"
     },
     {
@@ -220,10 +220,10 @@
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第218話",
+      "chapter": "更新至第219話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2025-10-29",
+      "update_date": "2025-11-05",
       "score": "9.5"
     },
     {
@@ -260,10 +260,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第242話試看",
+      "chapter": "更新至第243話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2025-10-31",
+      "update_date": "2025-11-07",
       "score": "9.2"
     },
     {
@@ -312,7 +312,7 @@
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "2025-10-31",
-      "score": "9.2"
+      "score": "9.1"
     },
     {
       "title": "家有女友",
