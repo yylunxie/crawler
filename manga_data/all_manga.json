@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-11-15 13:15:33",
+  "crawl_date": "2025-11-22 13:14:32",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,18 +20,18 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至重製版35卷⑥ 最不能碰見的傢伙",
+      "chapter": "更新至第264話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2025-11-07",
+      "update_date": "2025-11-20",
       "score": "9.3"
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1165話",
+      "chapter": "更新至第1166話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-11-13",
+      "update_date": "2025-11-21",
       "score": "9.3"
     },
     {
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第856話",
+      "chapter": "更新至第857話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-11-13",
+      "update_date": "2025-11-20",
       "score": "9.3"
     },
     {
@@ -204,10 +204,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第331話",
+      "chapter": "更新至第332話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-11-13",
+      "update_date": "2025-11-20",
       "score": "9.0"
     },
     {
@@ -260,10 +260,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第244話試看",
+      "chapter": "更新至第245話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2025-11-14",
+      "update_date": "2025-11-20",
       "score": "9.2"
     },
     {
@@ -308,11 +308,11 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第210.5話",
+      "chapter": "更新至第211話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
-      "update_date": "2025-11-11",
-      "score": "9.2"
+      "update_date": "2025-11-21",
+      "score": "9.1"
     },
     {
       "title": "家有女友",
