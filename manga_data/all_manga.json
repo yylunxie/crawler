@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-11-29 13:17:37",
+  "crawl_date": "2025-12-06 13:17:37",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,18 +20,18 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第264話",
+      "chapter": "更新至第265話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2025-11-20",
+      "update_date": "2025-12-04",
       "score": "9.3"
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1167話",
+      "chapter": "更新至第1168話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-11-29",
+      "update_date": "2025-12-05",
       "score": "9.3"
     },
     {
@@ -60,10 +60,10 @@
     },
     {
       "title": "關於我轉生後成為史萊姆的那件事",
-      "chapter": "更新至第135話",
+      "chapter": "更新至第136話",
       "url": "https://tw.manhuagui.com/comic/17023/",
       "cover_img": "//cf.mhgui.com/cpic/b/17023_24.jpg",
-      "update_date": "2025-10-29",
+      "update_date": "2025-12-01",
       "score": "9.5"
     },
     {
@@ -76,10 +76,10 @@
     },
     {
       "title": "咒術回戰",
-      "chapter": "更新至第29卷[完]",
+      "chapter": "更新至第30卷[完]",
       "url": "https://tw.manhuagui.com/comic/28004/",
       "cover_img": "//cf.mhgui.com/cpic/b/28004.jpg",
-      "update_date": "2025-09-13",
+      "update_date": "2025-12-01",
       "score": "9.3"
     },
     {
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第858話 試看版",
+      "chapter": "更新至第859話 試看版",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-11-28",
+      "update_date": "2025-12-05",
       "score": "9.3"
     },
     {
@@ -204,10 +204,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第333話",
+      "chapter": "更新至第334話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-11-29",
+      "update_date": "2025-12-06",
       "score": "9.0"
     },
     {
@@ -220,10 +220,10 @@
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第221話",
+      "chapter": "更新至第20卷",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2025-11-26",
+      "update_date": "2025-12-05",
       "score": "9.5"
     },
     {
@@ -251,20 +251,20 @@
       "score": "8.6"
     },
     {
-      "title": "東京喰種RE",
-      "chapter": "更新至第16卷[完]",
-      "url": "https://tw.manhuagui.com/comic/16058/",
-      "cover_img": "",
-      "update_date": "2020-07-05",
-      "score": "9.2"
-    },
-    {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
       "chapter": "更新至第245話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
       "update_date": "2025-11-20",
       "score": "9.3"
+    },
+    {
+      "title": "東京喰種RE",
+      "chapter": "更新至第16卷[完]",
+      "url": "https://tw.manhuagui.com/comic/16058/",
+      "cover_img": "",
+      "update_date": "2020-07-05",
+      "score": "9.2"
     },
     {
       "title": "校花的貼身高手",
@@ -336,7 +336,7 @@
       "url": "https://tw.manhuagui.com/comic/36859/",
       "cover_img": "",
       "update_date": "2025-07-18",
-      "score": "8.5"
+      "score": "8.4"
     }
   ]
 }
