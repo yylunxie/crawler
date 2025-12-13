@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-12-06 13:17:37",
+  "crawl_date": "2025-12-13 13:18:30",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第859話 試看版",
+      "chapter": "更新至第860話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-12-05",
+      "update_date": "2025-12-12",
       "score": "9.3"
     },
     {
@@ -188,10 +188,10 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第125話",
+      "chapter": "更新至第126話",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2025-11-25",
+      "update_date": "2025-12-08",
       "score": "9.6"
     },
     {
@@ -204,10 +204,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第334話",
+      "chapter": "更新至第335話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-12-06",
+      "update_date": "2025-12-12",
       "score": "9.0"
     },
     {
@@ -243,6 +243,14 @@
       "score": "8.1"
     },
     {
+      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
+      "chapter": "更新至第247話試看",
+      "url": "https://tw.manhuagui.com/comic/36998/",
+      "cover_img": "",
+      "update_date": "2025-12-12",
+      "score": "9.3"
+    },
+    {
       "title": "國民老公帶回家：偷吻55次",
       "chapter": "更新至最終話[完]",
       "url": "https://tw.manhuagui.com/comic/20579/",
@@ -251,20 +259,12 @@
       "score": "8.6"
     },
     {
-      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第245話試看",
-      "url": "https://tw.manhuagui.com/comic/36998/",
-      "cover_img": "",
-      "update_date": "2025-11-20",
-      "score": "9.3"
-    },
-    {
       "title": "東京喰種RE",
       "chapter": "更新至第16卷[完]",
       "url": "https://tw.manhuagui.com/comic/16058/",
       "cover_img": "",
       "update_date": "2020-07-05",
-      "score": "9.2"
+      "score": "9.1"
     },
     {
       "title": "校花的貼身高手",
@@ -284,10 +284,10 @@
     },
     {
       "title": "哥布林殺手",
-      "chapter": "更新至第98話",
+      "chapter": "更新至第99話",
       "url": "https://tw.manhuagui.com/comic/20515/",
       "cover_img": "",
-      "update_date": "2025-09-22",
+      "update_date": "2025-12-10",
       "score": "8.9"
     },
     {
