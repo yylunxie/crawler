@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-12-13 13:18:30",
+  "crawl_date": "2025-12-20 13:18:16",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,18 +20,18 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第265話",
+      "chapter": "更新至第266話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2025-12-04",
+      "update_date": "2025-12-18",
       "score": "9.3"
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1168話",
+      "chapter": "更新至第1169話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-12-05",
+      "update_date": "2025-12-19",
       "score": "9.3"
     },
     {
@@ -220,10 +220,10 @@
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第20卷",
+      "chapter": "更新至第223話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2025-12-05",
+      "update_date": "2025-12-18",
       "score": "9.5"
     },
     {
@@ -312,7 +312,7 @@
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "2025-11-21",
-      "score": "9.2"
+      "score": "9.1"
     },
     {
       "title": "家有女友",
