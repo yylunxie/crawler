@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-12-20 13:18:16",
+  "crawl_date": "2025-12-27 13:20:29",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -31,7 +31,7 @@
       "chapter": "更新至第1169話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2025-12-19",
+      "update_date": "2025-12-25",
       "score": "9.3"
     },
     {
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第860話",
+      "chapter": "更新至第861話 弓箭的終點",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2025-12-12",
+      "update_date": "2025-12-26",
       "score": "9.3"
     },
     {
@@ -188,10 +188,10 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第126話",
+      "chapter": "更新至第127話",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2025-12-08",
+      "update_date": "2025-12-23",
       "score": "9.6"
     },
     {
@@ -211,6 +211,14 @@
       "score": "9.0"
     },
     {
+      "title": "電鋸人",
+      "chapter": "更新至第224話",
+      "url": "https://tw.manhuagui.com/comic/30252/",
+      "cover_img": "",
+      "update_date": "2025-12-24",
+      "score": "9.5"
+    },
+    {
       "title": "靈劍尊",
       "chapter": "更新至第502話 理應處死，以儆效尤",
       "url": "https://tw.manhuagui.com/comic/25151/",
@@ -219,19 +227,11 @@
       "score": "7.9"
     },
     {
-      "title": "電鋸人",
-      "chapter": "更新至第223話",
-      "url": "https://tw.manhuagui.com/comic/30252/",
-      "cover_img": "",
-      "update_date": "2025-12-18",
-      "score": "9.5"
-    },
-    {
       "title": "平行天堂",
-      "chapter": "更新至第309話",
+      "chapter": "更新至第312話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
-      "update_date": "2025-10-29",
+      "update_date": "2025-12-26",
       "score": "9.2"
     },
     {
@@ -244,10 +244,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第247話試看",
+      "chapter": "更新至第248話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2025-12-12",
+      "update_date": "2025-12-26",
       "score": "9.3"
     },
     {
