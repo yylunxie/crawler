@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2025-12-27 13:20:29",
+  "crawl_date": "2026-01-03 13:21:01",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -68,10 +68,10 @@
     },
     {
       "title": "入間同學入魔了",
-      "chapter": "更新至第405話",
+      "chapter": "更新至第425話",
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
-      "update_date": "2025-11-12",
+      "update_date": "2026-01-01",
       "score": "9.6"
     },
     {
@@ -204,10 +204,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第335話",
+      "chapter": "更新至第337話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2025-12-12",
+      "update_date": "2026-01-01",
       "score": "9.0"
     },
     {
@@ -228,10 +228,10 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第312話",
+      "chapter": "更新至第314話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
-      "update_date": "2025-12-26",
+      "update_date": "2025-12-28",
       "score": "9.2"
     },
     {
