@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-01-17 13:21:00",
+  "crawl_date": "2026-01-24 13:22:39",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -11,14 +11,6 @@
       "score": "9.4"
     },
     {
-      "title": "鬥破蒼穹",
-      "chapter": "更新至第364話 展圖",
-      "url": "https://tw.manhuagui.com/comic/7620/",
-      "cover_img": "//cf.mhgui.com/cpic/b/7620.jpg",
-      "update_date": "2022-04-02",
-      "score": "8.3"
-    },
-    {
       "title": "一拳超人",
       "chapter": "更新至第266話",
       "url": "https://tw.manhuagui.com/comic/7580/",
@@ -27,11 +19,19 @@
       "score": "9.3"
     },
     {
+      "title": "鬥破蒼穹",
+      "chapter": "更新至第364話 展圖",
+      "url": "https://tw.manhuagui.com/comic/7620/",
+      "cover_img": "//cf.mhgui.com/cpic/b/7620.jpg",
+      "update_date": "2022-04-02",
+      "score": "8.3"
+    },
+    {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1170話",
+      "chapter": "更新至第1171話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2026-01-10",
+      "update_date": "2026-01-20",
       "score": "9.3"
     },
     {
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第862話 究極之箭",
+      "chapter": "更新至第863話 試看版",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-01-09",
+      "update_date": "2026-01-23",
       "score": "9.4"
     },
     {
@@ -188,10 +188,10 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第127話後篇",
+      "chapter": "更新至番外篇18",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2026-01-06",
+      "update_date": "2026-01-19",
       "score": "9.6"
     },
     {
@@ -204,18 +204,18 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第338話",
+      "chapter": "更新至第339話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-01-16",
+      "update_date": "2026-01-23",
       "score": "9.0"
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第226話",
+      "chapter": "更新至第227話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2026-01-14",
+      "update_date": "2026-01-21",
       "score": "9.5"
     },
     {
@@ -244,11 +244,11 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第249話試看",
+      "chapter": "更新至第250話",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2026-01-09",
-      "score": "9.2"
+      "update_date": "2026-01-18",
+      "score": "9.3"
     },
     {
       "title": "國民老公帶回家：偷吻55次",
