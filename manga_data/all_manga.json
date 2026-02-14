@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-02-07 13:34:28",
+  "crawl_date": "2026-02-14 13:35:15",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,10 +12,10 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第266話",
+      "chapter": "更新至第269話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2025-12-18",
+      "update_date": "2026-02-13",
       "score": "9.3"
     },
     {
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第865話 無國籍地帶的王",
+      "chapter": "更新至第866話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-02-06",
+      "update_date": "2026-02-13",
       "score": "9.4"
     },
     {
@@ -204,10 +204,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第341話",
+      "chapter": "更新至第342話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-02-06",
+      "update_date": "2026-02-12",
       "score": "9.0"
     },
     {
@@ -244,10 +244,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第253話試看",
+      "chapter": "更新至第254話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2026-02-07",
+      "update_date": "2026-02-13",
       "score": "9.3"
     },
     {
@@ -312,7 +312,7 @@
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "2026-01-27",
-      "score": "9.2"
+      "score": "9.1"
     },
     {
       "title": "家有女友",
@@ -323,20 +323,20 @@
       "score": "9.3"
     },
     {
-      "title": "五等分的花嫁",
-      "chapter": "更新至五醬與鬆餅上篇",
-      "url": "https://tw.manhuagui.com/comic/22843/",
-      "cover_img": "",
-      "update_date": "2025-03-18",
-      "score": "9.0"
-    },
-    {
       "title": "怪獸8號",
       "chapter": "更新至第129話",
       "url": "https://tw.manhuagui.com/comic/36859/",
       "cover_img": "",
       "update_date": "2025-07-18",
       "score": "8.4"
+    },
+    {
+      "title": "五等分的花嫁",
+      "chapter": "更新至五醬與鬆餅上篇",
+      "url": "https://tw.manhuagui.com/comic/22843/",
+      "cover_img": "",
+      "update_date": "2025-03-18",
+      "score": "9.0"
     }
   ]
 }
