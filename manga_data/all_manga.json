@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-02-14 13:35:15",
+  "crawl_date": "2026-02-21 13:33:08",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1172話",
+      "chapter": "更新至第1173話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2026-02-05",
+      "update_date": "2026-02-17",
       "score": "9.3"
     },
     {
@@ -68,10 +68,10 @@
     },
     {
       "title": "入間同學入魔了",
-      "chapter": "更新至第425話",
+      "chapter": "更新至第431話",
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
-      "update_date": "2026-01-01",
+      "update_date": "2026-02-16",
       "score": "9.6"
     },
     {
@@ -212,10 +212,10 @@
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第228話",
+      "chapter": "更新至第229話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2026-02-04",
+      "update_date": "2026-02-18",
       "score": "9.5"
     },
     {
@@ -228,10 +228,10 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第314話",
+      "chapter": "更新至第318話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
-      "update_date": "2025-12-28",
+      "update_date": "2026-02-18",
       "score": "9.2"
     },
     {
@@ -244,10 +244,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第254話試看",
+      "chapter": "更新至第255話",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2026-02-13",
+      "update_date": "2026-02-20",
       "score": "9.3"
     },
     {
@@ -296,7 +296,7 @@
       "url": "https://tw.manhuagui.com/comic/4740/",
       "cover_img": "",
       "update_date": "2022-01-08",
-      "score": "9.4"
+      "score": "9.3"
     },
     {
       "title": "絕世武神",
@@ -328,7 +328,7 @@
       "url": "https://tw.manhuagui.com/comic/36859/",
       "cover_img": "",
       "update_date": "2025-07-18",
-      "score": "8.4"
+      "score": "8.3"
     },
     {
       "title": "五等分的花嫁",
