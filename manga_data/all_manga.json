@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-02-21 13:33:08",
+  "crawl_date": "2026-02-28 13:28:18",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,10 +12,10 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第269話",
+      "chapter": "更新至第270話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2026-02-13",
+      "update_date": "2026-02-26",
       "score": "9.3"
     },
     {
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1173話",
+      "chapter": "更新至第1174話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2026-02-17",
+      "update_date": "2026-02-25",
       "score": "9.3"
     },
     {
@@ -72,7 +72,7 @@
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
       "update_date": "2026-02-16",
-      "score": "9.6"
+      "score": "9.5"
     },
     {
       "title": "咒術回戰",
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第866話",
+      "chapter": "更新至第867話 試看版",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-02-13",
+      "update_date": "2026-02-26",
       "score": "9.4"
     },
     {
@@ -204,18 +204,18 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第342話",
+      "chapter": "更新至第344話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-02-12",
+      "update_date": "2026-02-27",
       "score": "9.0"
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第229話",
+      "chapter": "更新至第230話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2026-02-18",
+      "update_date": "2026-02-26",
       "score": "9.5"
     },
     {
@@ -244,10 +244,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第255話",
+      "chapter": "更新至第256話",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2026-02-20",
+      "update_date": "2026-02-26",
       "score": "9.3"
     },
     {
@@ -315,20 +315,20 @@
       "score": "9.1"
     },
     {
-      "title": "家有女友",
-      "chapter": "更新至電子版13[完]",
-      "url": "https://tw.manhuagui.com/comic/12912/",
-      "cover_img": "",
-      "update_date": "2024-05-21",
-      "score": "9.3"
-    },
-    {
       "title": "怪獸8號",
       "chapter": "更新至第129話",
       "url": "https://tw.manhuagui.com/comic/36859/",
       "cover_img": "",
       "update_date": "2025-07-18",
       "score": "8.3"
+    },
+    {
+      "title": "家有女友",
+      "chapter": "更新至電子版13[完]",
+      "url": "https://tw.manhuagui.com/comic/12912/",
+      "cover_img": "",
+      "update_date": "2024-05-21",
+      "score": "9.3"
     },
     {
       "title": "五等分的花嫁",
