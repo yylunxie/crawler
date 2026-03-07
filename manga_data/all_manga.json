@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-02-28 13:28:18",
+  "crawl_date": "2026-03-07 13:30:24",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1174話",
+      "chapter": "更新至第112卷",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2026-02-25",
+      "update_date": "2026-03-01",
       "score": "9.3"
     },
     {
@@ -60,19 +60,19 @@
     },
     {
       "title": "關於我轉生後成為史萊姆的那件事",
-      "chapter": "更新至第138話 西方動亂",
+      "chapter": "更新至第139話 西方動亂 2",
       "url": "https://tw.manhuagui.com/comic/17023/",
       "cover_img": "//cf.mhgui.com/cpic/b/17023_24.jpg",
-      "update_date": "2026-02-04",
+      "update_date": "2026-03-04",
       "score": "9.5"
     },
     {
       "title": "入間同學入魔了",
-      "chapter": "更新至第431話",
+      "chapter": "更新至第434話",
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
-      "update_date": "2026-02-16",
-      "score": "9.5"
+      "update_date": "2026-03-05",
+      "score": "9.6"
     },
     {
       "title": "咒術回戰",
@@ -132,11 +132,11 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第867話 試看版",
+      "chapter": "更新至第868話 試看版",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-02-26",
-      "score": "9.4"
+      "update_date": "2026-03-06",
+      "score": "9.3"
     },
     {
       "title": "黑色五葉草",
@@ -188,10 +188,10 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第128話",
+      "chapter": "更新至第129話",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2026-02-02",
+      "update_date": "2026-03-02",
       "score": "9.6"
     },
     {
@@ -204,10 +204,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第344話",
+      "chapter": "更新至第345話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-02-27",
+      "update_date": "2026-03-05",
       "score": "9.0"
     },
     {
@@ -216,7 +216,7 @@
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
       "update_date": "2026-02-26",
-      "score": "9.5"
+      "score": "9.6"
     },
     {
       "title": "靈劍尊",
@@ -228,11 +228,19 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第318話",
+      "chapter": "更新至第321話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
-      "update_date": "2026-02-18",
+      "update_date": "2026-03-07",
       "score": "9.2"
+    },
+    {
+      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
+      "chapter": "更新至第257話試看",
+      "url": "https://tw.manhuagui.com/comic/36998/",
+      "cover_img": "",
+      "update_date": "2026-03-07",
+      "score": "9.3"
     },
     {
       "title": "轉生賢者的異世界生活~取得副職業併成為世界最強",
@@ -241,14 +249,6 @@
       "cover_img": "",
       "update_date": "2025-07-30",
       "score": "8.1"
-    },
-    {
-      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第256話",
-      "url": "https://tw.manhuagui.com/comic/36998/",
-      "cover_img": "",
-      "update_date": "2026-02-26",
-      "score": "9.3"
     },
     {
       "title": "國民老公帶回家：偷吻55次",
@@ -308,11 +308,19 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第05卷",
+      "chapter": "更新至第211.5話 馬年新年",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
-      "update_date": "2026-01-27",
+      "update_date": "2026-03-01",
       "score": "9.1"
+    },
+    {
+      "title": "異世界悠閒農家",
+      "chapter": "更新至第317話",
+      "url": "https://tw.manhuagui.com/comic/25882/",
+      "cover_img": "",
+      "update_date": "2026-02-28",
+      "score": "8.9"
     },
     {
       "title": "怪獸8號",
@@ -329,14 +337,6 @@
       "cover_img": "",
       "update_date": "2024-05-21",
       "score": "9.3"
-    },
-    {
-      "title": "五等分的花嫁",
-      "chapter": "更新至五醬與鬆餅上篇",
-      "url": "https://tw.manhuagui.com/comic/22843/",
-      "cover_img": "",
-      "update_date": "2025-03-18",
-      "score": "9.0"
     }
   ]
 }
