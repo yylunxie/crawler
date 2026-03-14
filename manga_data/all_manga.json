@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-03-07 13:30:24",
+  "crawl_date": "2026-03-14 13:36:22",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,10 +12,10 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第270話",
+      "chapter": "更新至第271話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2026-02-26",
+      "update_date": "2026-03-12",
       "score": "9.3"
     },
     {
@@ -72,7 +72,7 @@
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
       "update_date": "2026-03-05",
-      "score": "9.6"
+      "score": "9.5"
     },
     {
       "title": "咒術回戰",
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第868話 試看版",
+      "chapter": "更新至第869話 試看版",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-03-06",
+      "update_date": "2026-03-13",
       "score": "9.3"
     },
     {
@@ -184,7 +184,7 @@
       "url": "https://tw.manhuagui.com/comic/9637/",
       "cover_img": "",
       "update_date": "2025-10-30",
-      "score": "9.6"
+      "score": "9.5"
     },
     {
       "title": "間諜過家家",
@@ -204,19 +204,19 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第345話",
+      "chapter": "更新至第346話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-03-05",
+      "update_date": "2026-03-13",
       "score": "9.0"
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第230話",
+      "chapter": "更新至第231話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2026-02-26",
-      "score": "9.6"
+      "update_date": "2026-03-11",
+      "score": "9.5"
     },
     {
       "title": "靈劍尊",
@@ -236,10 +236,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第257話試看",
+      "chapter": "更新至第258話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2026-03-07",
+      "update_date": "2026-03-13",
       "score": "9.3"
     },
     {
@@ -284,10 +284,10 @@
     },
     {
       "title": "哥布林殺手",
-      "chapter": "更新至第99話",
+      "chapter": "更新至第100話",
       "url": "https://tw.manhuagui.com/comic/20515/",
       "cover_img": "",
-      "update_date": "2025-12-10",
+      "update_date": "2026-03-13",
       "score": "8.9"
     },
     {
@@ -312,7 +312,7 @@
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "2026-03-01",
-      "score": "9.1"
+      "score": "9.2"
     },
     {
       "title": "異世界悠閒農家",
