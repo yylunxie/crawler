@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-03-14 13:36:22",
+  "crawl_date": "2026-03-21 13:33:28",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -179,6 +179,14 @@
       "score": "7.3"
     },
     {
+      "title": "間諜過家家",
+      "chapter": "更新至第130話",
+      "url": "https://tw.manhuagui.com/comic/31550/",
+      "cover_img": "",
+      "update_date": "2026-03-17",
+      "score": "9.6"
+    },
+    {
       "title": "一拳超人原作版",
       "chapter": "更新至第156話",
       "url": "https://tw.manhuagui.com/comic/9637/",
@@ -187,12 +195,12 @@
       "score": "9.5"
     },
     {
-      "title": "間諜過家家",
-      "chapter": "更新至第129話",
-      "url": "https://tw.manhuagui.com/comic/31550/",
+      "title": "拳願奧米迦",
+      "chapter": "更新至第347話",
+      "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-03-02",
-      "score": "9.6"
+      "update_date": "2026-03-20",
+      "score": "9.0"
     },
     {
       "title": "Dr.STONE",
@@ -201,14 +209,6 @@
       "cover_img": "",
       "update_date": "2024-06-29",
       "score": "8.7"
-    },
-    {
-      "title": "拳願奧米迦",
-      "chapter": "更新至第346話",
-      "url": "https://tw.manhuagui.com/comic/30782/",
-      "cover_img": "",
-      "update_date": "2026-03-13",
-      "score": "9.0"
     },
     {
       "title": "電鋸人",
@@ -236,10 +236,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第258話試看",
+      "chapter": "更新至第259話",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2026-03-13",
+      "update_date": "2026-03-21",
       "score": "9.3"
     },
     {
