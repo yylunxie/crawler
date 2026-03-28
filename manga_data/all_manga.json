@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-03-21 13:33:28",
+  "crawl_date": "2026-03-28 13:40:27",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,10 +12,10 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第271話",
+      "chapter": "更新至第272話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2026-03-12",
+      "update_date": "2026-03-26",
       "score": "9.3"
     },
     {
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第112卷",
+      "chapter": "更新至第1177話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2026-03-01",
+      "update_date": "2026-03-27",
       "score": "9.3"
     },
     {
@@ -60,10 +60,10 @@
     },
     {
       "title": "關於我轉生後成為史萊姆的那件事",
-      "chapter": "更新至第139話 西方動亂 2",
+      "chapter": "更新至第140話 西方動亂 3",
       "url": "https://tw.manhuagui.com/comic/17023/",
       "cover_img": "//cf.mhgui.com/cpic/b/17023_24.jpg",
-      "update_date": "2026-03-04",
+      "update_date": "2026-03-28",
       "score": "9.5"
     },
     {
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第869話 試看版",
+      "chapter": "更新至第870話 龐大的戰略",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-03-13",
+      "update_date": "2026-03-27",
       "score": "9.3"
     },
     {
@@ -196,11 +196,11 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第347話",
+      "chapter": "更新至第348話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-03-20",
-      "score": "9.0"
+      "update_date": "2026-03-27",
+      "score": "8.9"
     },
     {
       "title": "Dr.STONE",
@@ -212,10 +212,10 @@
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第231話",
+      "chapter": "更新至第232話",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2026-03-11",
+      "update_date": "2026-03-25",
       "score": "9.5"
     },
     {
@@ -228,10 +228,10 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第321話",
+      "chapter": "更新至第323話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
-      "update_date": "2026-03-07",
+      "update_date": "2026-03-25",
       "score": "9.2"
     },
     {
@@ -299,20 +299,20 @@
       "score": "9.3"
     },
     {
+      "title": "轉生七王子的魔法全解",
+      "chapter": "更新至馬年新年",
+      "url": "https://tw.manhuagui.com/comic/36948/",
+      "cover_img": "",
+      "update_date": "2026-03-23",
+      "score": "9.2"
+    },
+    {
       "title": "絕世武神",
       "chapter": "更新至第155話3 師兄妹",
       "url": "https://tw.manhuagui.com/comic/22058/",
       "cover_img": "",
       "update_date": "2022-05-07",
       "score": "8.5"
-    },
-    {
-      "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第211.5話 馬年新年",
-      "url": "https://tw.manhuagui.com/comic/36948/",
-      "cover_img": "",
-      "update_date": "2026-03-01",
-      "score": "9.2"
     },
     {
       "title": "異世界悠閒農家",
@@ -328,7 +328,7 @@
       "url": "https://tw.manhuagui.com/comic/36859/",
       "cover_img": "",
       "update_date": "2025-07-18",
-      "score": "8.3"
+      "score": "8.2"
     },
     {
       "title": "家有女友",
