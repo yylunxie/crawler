@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-03-28 13:40:27",
+  "crawl_date": "2026-04-04 13:42:08",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1177話",
+      "chapter": "更新至第1178話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2026-03-27",
+      "update_date": "2026-04-01",
       "score": "9.3"
     },
     {
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第870話 龐大的戰略",
+      "chapter": "更新至第871話 友軍的獻身",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-03-27",
+      "update_date": "2026-04-03",
       "score": "9.3"
     },
     {
@@ -180,26 +180,26 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第130話",
+      "chapter": "更新至第131話",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2026-03-17",
+      "update_date": "2026-03-31",
       "score": "9.6"
     },
     {
       "title": "一拳超人原作版",
-      "chapter": "更新至第156話",
+      "chapter": "更新至第157話",
       "url": "https://tw.manhuagui.com/comic/9637/",
       "cover_img": "",
-      "update_date": "2025-10-30",
+      "update_date": "2026-04-04",
       "score": "9.5"
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第348話",
+      "chapter": "更新至第349話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-03-27",
+      "update_date": "2026-04-03",
       "score": "8.9"
     },
     {
@@ -228,26 +228,26 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第323話",
+      "chapter": "更新至第324話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
-      "update_date": "2026-03-25",
+      "update_date": "2026-03-31",
       "score": "9.2"
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第259話",
+      "chapter": "更新至第261話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2026-03-21",
+      "update_date": "2026-04-03",
       "score": "9.3"
     },
     {
       "title": "轉生賢者的異世界生活~取得副職業併成為世界最強",
-      "chapter": "更新至第80.5話",
+      "chapter": "更新至第83話",
       "url": "https://tw.manhuagui.com/comic/30278/",
       "cover_img": "",
-      "update_date": "2025-07-30",
+      "update_date": "2026-04-04",
       "score": "8.1"
     },
     {
@@ -304,7 +304,7 @@
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "2026-03-23",
-      "score": "9.2"
+      "score": "9.1"
     },
     {
       "title": "絕世武神",
