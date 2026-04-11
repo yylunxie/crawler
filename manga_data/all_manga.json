@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-04-04 13:42:08",
+  "crawl_date": "2026-04-11 13:44:25",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,10 +12,10 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第272話",
+      "chapter": "更新至第273話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2026-03-26",
+      "update_date": "2026-04-09",
       "score": "9.3"
     },
     {
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1178話",
+      "chapter": "更新至第1179話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2026-04-01",
+      "update_date": "2026-04-08",
       "score": "9.3"
     },
     {
@@ -196,10 +196,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第349話",
+      "chapter": "更新至第350話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-04-03",
+      "update_date": "2026-04-11",
       "score": "8.9"
     },
     {
@@ -228,10 +228,10 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第324話",
+      "chapter": "更新至第325話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
-      "update_date": "2026-03-31",
+      "update_date": "2026-04-10",
       "score": "9.2"
     },
     {
@@ -244,10 +244,10 @@
     },
     {
       "title": "轉生賢者的異世界生活~取得副職業併成為世界最強",
-      "chapter": "更新至第83話",
+      "chapter": "更新至第90話",
       "url": "https://tw.manhuagui.com/comic/30278/",
       "cover_img": "",
-      "update_date": "2026-04-04",
+      "update_date": "2026-04-11",
       "score": "8.1"
     },
     {
@@ -304,7 +304,7 @@
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "2026-03-23",
-      "score": "9.1"
+      "score": "9.2"
     },
     {
       "title": "絕世武神",
