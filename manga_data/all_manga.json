@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-04-11 13:44:25",
+  "crawl_date": "2026-04-18 13:52:09",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -68,10 +68,10 @@
     },
     {
       "title": "入間同學入魔了",
-      "chapter": "更新至第434話",
+      "chapter": "更新至第438話",
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
-      "update_date": "2026-03-05",
+      "update_date": "2026-04-16",
       "score": "9.5"
     },
     {
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第871話 友軍的獻身",
+      "chapter": "更新至第872話 不太好的事情",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-04-03",
+      "update_date": "2026-04-17",
       "score": "9.3"
     },
     {
@@ -180,26 +180,26 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第131話",
+      "chapter": "更新至第132話",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2026-03-31",
+      "update_date": "2026-04-14",
       "score": "9.6"
     },
     {
       "title": "一拳超人原作版",
-      "chapter": "更新至第157話",
+      "chapter": "更新至第158話",
       "url": "https://tw.manhuagui.com/comic/9637/",
       "cover_img": "",
-      "update_date": "2026-04-04",
+      "update_date": "2026-04-12",
       "score": "9.5"
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第350話",
+      "chapter": "更新至第351話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-04-11",
+      "update_date": "2026-04-17",
       "score": "8.9"
     },
     {
@@ -236,18 +236,18 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第261話試看",
+      "chapter": "更新至第262話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2026-04-03",
+      "update_date": "2026-04-18",
       "score": "9.3"
     },
     {
       "title": "轉生賢者的異世界生活~取得副職業併成為世界最強",
-      "chapter": "更新至第90話",
+      "chapter": "更新至第93話",
       "url": "https://tw.manhuagui.com/comic/30278/",
       "cover_img": "",
-      "update_date": "2026-04-11",
+      "update_date": "2026-04-14",
       "score": "8.1"
     },
     {
@@ -267,20 +267,20 @@
       "score": "9.1"
     },
     {
-      "title": "校花的貼身高手",
-      "chapter": "更新至第426話",
-      "url": "https://tw.manhuagui.com/comic/25956/",
-      "cover_img": "",
-      "update_date": "2018-06-02",
-      "score": "6.0"
-    },
-    {
       "title": "葬送者芙莉蓮",
       "chapter": "更新至第147話",
       "url": "https://tw.manhuagui.com/comic/35937/",
       "cover_img": "",
       "update_date": "2025-10-15",
       "score": "9.5"
+    },
+    {
+      "title": "校花的貼身高手",
+      "chapter": "更新至第426話",
+      "url": "https://tw.manhuagui.com/comic/25956/",
+      "cover_img": "",
+      "update_date": "2018-06-02",
+      "score": "6.0"
     },
     {
       "title": "哥布林殺手",
@@ -291,20 +291,20 @@
       "score": "8.9"
     },
     {
+      "title": "轉生七王子的魔法全解",
+      "chapter": "更新至第212話",
+      "url": "https://tw.manhuagui.com/comic/36948/",
+      "cover_img": "",
+      "update_date": "2026-04-13",
+      "score": "9.2"
+    },
+    {
       "title": "進擊的巨人",
       "chapter": "更新至第34卷",
       "url": "https://tw.manhuagui.com/comic/4740/",
       "cover_img": "",
       "update_date": "2022-01-08",
       "score": "9.3"
-    },
-    {
-      "title": "轉生七王子的魔法全解",
-      "chapter": "更新至馬年新年",
-      "url": "https://tw.manhuagui.com/comic/36948/",
-      "cover_img": "",
-      "update_date": "2026-03-23",
-      "score": "9.2"
     },
     {
       "title": "絕世武神",
@@ -328,7 +328,7 @@
       "url": "https://tw.manhuagui.com/comic/36859/",
       "cover_img": "",
       "update_date": "2025-07-18",
-      "score": "8.2"
+      "score": "8.1"
     },
     {
       "title": "家有女友",
