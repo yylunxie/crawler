@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-04-18 13:52:09",
+  "crawl_date": "2026-04-25 13:54:39",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,10 +12,10 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第273話",
+      "chapter": "更新至第274話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2026-04-09",
+      "update_date": "2026-04-23",
       "score": "9.3"
     },
     {
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1179話",
+      "chapter": "更新至第1180話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2026-04-08",
+      "update_date": "2026-04-22",
       "score": "9.3"
     },
     {
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第872話 不太好的事情",
+      "chapter": "更新至第873話 試看版",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-04-17",
+      "update_date": "2026-04-24",
       "score": "9.3"
     },
     {
@@ -188,18 +188,18 @@
     },
     {
       "title": "一拳超人原作版",
-      "chapter": "更新至第158話",
+      "chapter": "更新至第159話",
       "url": "https://tw.manhuagui.com/comic/9637/",
       "cover_img": "",
-      "update_date": "2026-04-12",
+      "update_date": "2026-04-20",
       "score": "9.5"
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第351話",
+      "chapter": "更新至第352話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-04-17",
+      "update_date": "2026-04-24",
       "score": "8.9"
     },
     {
