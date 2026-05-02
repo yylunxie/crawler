@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-04-25 13:54:39",
+  "crawl_date": "2026-05-02 14:01:47",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -8,7 +8,7 @@
       "url": "https://tw.manhuagui.com/comic/19430/",
       "cover_img": "//cf.mhgui.com/cpic/b/19430.jpg",
       "update_date": "2021-08-21",
-      "score": "9.4"
+      "score": "9.5"
     },
     {
       "title": "一拳超人",
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1180話",
+      "chapter": "更新至第1181話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2026-04-22",
+      "update_date": "2026-04-29",
       "score": "9.3"
     },
     {
@@ -60,18 +60,18 @@
     },
     {
       "title": "關於我轉生後成為史萊姆的那件事",
-      "chapter": "更新至第140話 西方動亂 3",
+      "chapter": "更新至第141話 陷入混亂的西方諸國評議會",
       "url": "https://tw.manhuagui.com/comic/17023/",
       "cover_img": "//cf.mhgui.com/cpic/b/17023_24.jpg",
-      "update_date": "2026-03-28",
+      "update_date": "2026-04-28",
       "score": "9.5"
     },
     {
       "title": "入間同學入魔了",
-      "chapter": "更新至第438話",
+      "chapter": "更新至第441話",
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
-      "update_date": "2026-04-16",
+      "update_date": "2026-05-02",
       "score": "9.5"
     },
     {
@@ -132,18 +132,18 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第873話 試看版",
+      "chapter": "更新至第874話 試看版",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-04-24",
+      "update_date": "2026-05-01",
       "score": "9.3"
     },
     {
       "title": "黑色五葉草",
-      "chapter": "更新至第389話",
+      "chapter": "更新至第392話",
       "url": "https://tw.manhuagui.com/comic/16460/",
       "cover_img": "",
-      "update_date": "2026-01-06",
+      "update_date": "2026-05-02",
       "score": "9.0"
     },
     {
@@ -180,10 +180,10 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第132話",
+      "chapter": "更新至第133話",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2026-04-14",
+      "update_date": "2026-04-28",
       "score": "9.6"
     },
     {
@@ -192,7 +192,7 @@
       "url": "https://tw.manhuagui.com/comic/9637/",
       "cover_img": "",
       "update_date": "2026-04-20",
-      "score": "9.5"
+      "score": "9.6"
     },
     {
       "title": "拳願奧米迦",
@@ -216,7 +216,15 @@
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
       "update_date": "2026-03-25",
-      "score": "9.5"
+      "score": "9.6"
+    },
+    {
+      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
+      "chapter": "更新至第264話試看",
+      "url": "https://tw.manhuagui.com/comic/36998/",
+      "cover_img": "",
+      "update_date": "2026-04-30",
+      "score": "9.3"
     },
     {
       "title": "靈劍尊",
@@ -233,14 +241,6 @@
       "cover_img": "",
       "update_date": "2026-04-10",
       "score": "9.2"
-    },
-    {
-      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第262話試看",
-      "url": "https://tw.manhuagui.com/comic/36998/",
-      "cover_img": "",
-      "update_date": "2026-04-18",
-      "score": "9.3"
     },
     {
       "title": "轉生賢者的異世界生活~取得副職業併成為世界最強",
@@ -292,10 +292,10 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第212話",
+      "chapter": "更新至第213話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
-      "update_date": "2026-04-13",
+      "update_date": "2026-04-28",
       "score": "9.2"
     },
     {
