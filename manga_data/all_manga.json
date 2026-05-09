@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-05-02 14:01:47",
+  "crawl_date": "2026-05-09 14:10:01",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,10 +12,10 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第274話",
+      "chapter": "更新至第275話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2026-04-23",
+      "update_date": "2026-05-07",
       "score": "9.3"
     },
     {
@@ -128,7 +128,7 @@
       "url": "https://tw.manhuagui.com/comic/25190/",
       "cover_img": "",
       "update_date": "2025-07-22",
-      "score": "9.2"
+      "score": "9.3"
     },
     {
       "title": "王者天下",
@@ -196,10 +196,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第352話",
+      "chapter": "更新至第353話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-04-24",
+      "update_date": "2026-05-08",
       "score": "8.9"
     },
     {
@@ -212,10 +212,10 @@
     },
     {
       "title": "電鋸人",
-      "chapter": "更新至第232話",
+      "chapter": "更新至第22卷",
       "url": "https://tw.manhuagui.com/comic/30252/",
       "cover_img": "",
-      "update_date": "2026-03-25",
+      "update_date": "2026-05-08",
       "score": "9.6"
     },
     {
