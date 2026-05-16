@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-05-09 14:10:01",
+  "crawl_date": "2026-05-16 14:14:57",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -28,11 +28,11 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1181話",
+      "chapter": "更新至第1182話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2026-04-29",
-      "score": "9.3"
+      "update_date": "2026-05-13",
+      "score": "9.4"
     },
     {
       "title": "斗羅大陸",
@@ -132,11 +132,11 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第874話 試看版",
+      "chapter": "更新至第875話",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-05-01",
-      "score": "9.3"
+      "update_date": "2026-05-15",
+      "score": "9.4"
     },
     {
       "title": "黑色五葉草",
@@ -180,10 +180,10 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第133話",
+      "chapter": "更新至第134話",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
-      "update_date": "2026-04-28",
+      "update_date": "2026-05-13",
       "score": "9.6"
     },
     {
@@ -196,10 +196,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第353話",
+      "chapter": "更新至第354話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-05-08",
+      "update_date": "2026-05-15",
       "score": "8.9"
     },
     {
@@ -220,10 +220,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第264話試看",
+      "chapter": "更新至第265話",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2026-04-30",
+      "update_date": "2026-05-14",
       "score": "9.3"
     },
     {
@@ -244,10 +244,10 @@
     },
     {
       "title": "轉生賢者的異世界生活~取得副職業併成為世界最強",
-      "chapter": "更新至第93話",
+      "chapter": "更新至第96話",
       "url": "https://tw.manhuagui.com/comic/30278/",
       "cover_img": "",
-      "update_date": "2026-04-14",
+      "update_date": "2026-05-15",
       "score": "8.1"
     },
     {
@@ -292,10 +292,10 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第213話",
+      "chapter": "更新至第214話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
-      "update_date": "2026-04-28",
+      "update_date": "2026-05-14",
       "score": "9.2"
     },
     {
@@ -328,7 +328,7 @@
       "url": "https://tw.manhuagui.com/comic/36859/",
       "cover_img": "",
       "update_date": "2025-07-18",
-      "score": "8.1"
+      "score": "8.0"
     },
     {
       "title": "家有女友",
