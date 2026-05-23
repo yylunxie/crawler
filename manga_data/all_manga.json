@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-05-16 14:14:57",
+  "crawl_date": "2026-05-23 14:22:07",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,10 +12,10 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第275話",
+      "chapter": "更新至第276話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2026-05-07",
+      "update_date": "2026-05-21",
       "score": "9.3"
     },
     {
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第875話",
+      "chapter": "更新至第74卷",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-05-15",
+      "update_date": "2026-05-22",
       "score": "9.4"
     },
     {
@@ -196,11 +196,11 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第354話",
+      "chapter": "更新至第355話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-05-15",
-      "score": "8.9"
+      "update_date": "2026-05-22",
+      "score": "9.0"
     },
     {
       "title": "Dr.STONE",
@@ -220,10 +220,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第265話",
+      "chapter": "更新至第266話",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2026-05-14",
+      "update_date": "2026-05-21",
       "score": "9.3"
     },
     {
@@ -248,7 +248,7 @@
       "url": "https://tw.manhuagui.com/comic/30278/",
       "cover_img": "",
       "update_date": "2026-05-15",
-      "score": "8.1"
+      "score": "8.2"
     },
     {
       "title": "國民老公帶回家：偷吻55次",
@@ -292,10 +292,10 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第214話",
+      "chapter": "更新至第214.5話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
-      "update_date": "2026-05-14",
+      "update_date": "2026-05-20",
       "score": "9.2"
     },
     {
@@ -304,7 +304,7 @@
       "url": "https://tw.manhuagui.com/comic/4740/",
       "cover_img": "",
       "update_date": "2022-01-08",
-      "score": "9.3"
+      "score": "9.4"
     },
     {
       "title": "絕世武神",
