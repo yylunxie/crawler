@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-05-30 14:21:04",
+  "crawl_date": "2026-06-06 14:21:16",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,11 +12,11 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第276話",
+      "chapter": "更新至第277話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2026-05-21",
-      "score": "9.3"
+      "update_date": "2026-06-04",
+      "score": "9.4"
     },
     {
       "title": "鬥破蒼穹",
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1182話",
+      "chapter": "更新至第1184話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2026-05-13",
+      "update_date": "2026-06-03",
       "score": "9.4"
     },
     {
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第74卷",
+      "chapter": "更新至第877話 敵軍本隊",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-05-22",
+      "update_date": "2026-06-05",
       "score": "9.4"
     },
     {
@@ -196,10 +196,10 @@
     },
     {
       "title": "拳願奧米迦",
-      "chapter": "更新至第355話",
+      "chapter": "更新至第356話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
-      "update_date": "2026-05-22",
+      "update_date": "2026-06-06",
       "score": "9.0"
     },
     {
@@ -248,7 +248,7 @@
       "url": "https://tw.manhuagui.com/comic/30278/",
       "cover_img": "",
       "update_date": "2026-05-15",
-      "score": "8.2"
+      "score": "8.3"
     },
     {
       "title": "國民老公帶回家：偷吻55次",
