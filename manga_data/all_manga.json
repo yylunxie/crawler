@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-06-13 14:53:56",
+  "crawl_date": "2026-06-20 14:57:17",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,10 +12,10 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第277話",
+      "chapter": "更新至第278話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-18",
       "score": "9.4"
     },
     {
@@ -28,10 +28,10 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1184話",
+      "chapter": "更新至第1185話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
-      "update_date": "2026-06-03",
+      "update_date": "2026-06-17",
       "score": "9.4"
     },
     {
@@ -132,10 +132,10 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第878話 同樣形式",
+      "chapter": "更新至第879話 試看版",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
-      "update_date": "2026-06-12",
+      "update_date": "2026-06-19",
       "score": "9.4"
     },
     {
@@ -220,10 +220,10 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第268話試看",
+      "chapter": "更新至第269話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
-      "update_date": "2026-06-12",
+      "update_date": "2026-06-19",
       "score": "9.3"
     },
     {
@@ -236,10 +236,10 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第325話",
+      "chapter": "更新至第329話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
-      "update_date": "2026-04-10",
+      "update_date": "2026-06-20",
       "score": "9.2"
     },
     {
@@ -248,7 +248,7 @@
       "url": "https://tw.manhuagui.com/comic/30278/",
       "cover_img": "",
       "update_date": "2026-05-15",
-      "score": "8.3"
+      "score": "8.4"
     },
     {
       "title": "國民老公帶回家：偷吻55次",
@@ -307,20 +307,20 @@
       "score": "9.4"
     },
     {
-      "title": "絕世武神",
-      "chapter": "更新至第155話3 師兄妹",
-      "url": "https://tw.manhuagui.com/comic/22058/",
-      "cover_img": "",
-      "update_date": "2022-05-07",
-      "score": "8.5"
-    },
-    {
       "title": "異世界悠閒農家",
       "chapter": "更新至第317話",
       "url": "https://tw.manhuagui.com/comic/25882/",
       "cover_img": "",
       "update_date": "2026-02-28",
       "score": "8.9"
+    },
+    {
+      "title": "絕世武神",
+      "chapter": "更新至第155話3 師兄妹",
+      "url": "https://tw.manhuagui.com/comic/22058/",
+      "cover_img": "",
+      "update_date": "2022-05-07",
+      "score": "8.5"
     },
     {
       "title": "怪獸8號",
