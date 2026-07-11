@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-07-04 14:20:03",
+  "crawl_date": "2026-07-11 14:14:19",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -19,18 +19,18 @@
       "score": ""
     },
     {
-      "title": "斗破蒼穹",
-      "chapter": "更新至第364話 展圖",
-      "url": "https://tw.manhuagui.com/comic/7620/",
-      "cover_img": "//cf.mhgui.com/cpic/b/7620.jpg",
-      "update_date": "",
-      "score": ""
-    },
-    {
       "title": "ONE PIECE航海王",
       "chapter": "更新至第1185話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
+      "update_date": "",
+      "score": ""
+    },
+    {
+      "title": "斗破蒼穹",
+      "chapter": "更新至第364話 展圖",
+      "url": "https://tw.manhuagui.com/comic/7620/",
+      "cover_img": "//cf.mhgui.com/cpic/b/7620.jpg",
       "update_date": "",
       "score": ""
     },
@@ -68,7 +68,7 @@
     },
     {
       "title": "入間同學入魔了",
-      "chapter": "更新至第448話",
+      "chapter": "更新至第449話",
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
       "update_date": "",
@@ -180,7 +180,7 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第136話",
+      "chapter": "更新至第137話",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
       "update_date": "",
@@ -196,7 +196,7 @@
     },
     {
       "title": "拳愿奧米迦",
-      "chapter": "更新至第360話",
+      "chapter": "更新至第361話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
       "update_date": "",
@@ -211,6 +211,14 @@
       "score": ""
     },
     {
+      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
+      "chapter": "更新至第272話試看",
+      "url": "https://tw.manhuagui.com/comic/36998/",
+      "cover_img": "",
+      "update_date": "",
+      "score": ""
+    },
+    {
       "title": "電鋸人",
       "chapter": "更新至第22卷",
       "url": "https://tw.manhuagui.com/comic/30252/",
@@ -219,16 +227,8 @@
       "score": ""
     },
     {
-      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第271話試看",
-      "url": "https://tw.manhuagui.com/comic/36998/",
-      "cover_img": "",
-      "update_date": "",
-      "score": ""
-    },
-    {
       "title": "平行天堂",
-      "chapter": "更新至第332話",
+      "chapter": "更新至第333話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
       "update_date": "",
@@ -284,7 +284,7 @@
     },
     {
       "title": "哥布林殺手",
-      "chapter": "更新至第100話",
+      "chapter": "更新至第101話",
       "url": "https://tw.manhuagui.com/comic/20515/",
       "cover_img": "",
       "update_date": "",
@@ -292,7 +292,7 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第217話",
+      "chapter": "更新至第218話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "",
@@ -331,9 +331,9 @@
       "score": ""
     },
     {
-      "title": "家有女友",
-      "chapter": "更新至電子版13[完]",
-      "url": "https://tw.manhuagui.com/comic/12912/",
+      "title": "超自然武裝噹噠噹",
+      "chapter": "更新至第240話",
+      "url": "https://tw.manhuagui.com/comic/39903/",
       "cover_img": "",
       "update_date": "",
       "score": ""
