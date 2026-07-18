@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-07-11 14:14:19",
+  "crawl_date": "2026-07-18 14:11:33",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,7 +12,7 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第279話",
+      "chapter": "更新至第280話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
       "update_date": "",
@@ -60,7 +60,7 @@
     },
     {
       "title": "關于我轉生后成為史萊姆的那件事",
-      "chapter": "更新至第142話",
+      "chapter": "更新至第143話",
       "url": "https://tw.manhuagui.com/comic/17023/",
       "cover_img": "//cf.mhgui.com/cpic/b/17023_24.jpg",
       "update_date": "",
@@ -132,7 +132,7 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第881話 樂華的旗",
+      "chapter": "更新至第882話 絕代的將軍",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
       "update_date": "",
@@ -188,7 +188,7 @@
     },
     {
       "title": "一拳超人原作版",
-      "chapter": "更新至第159話",
+      "chapter": "更新至第160話",
       "url": "https://tw.manhuagui.com/comic/9637/",
       "cover_img": "",
       "update_date": "",
@@ -196,7 +196,7 @@
     },
     {
       "title": "拳愿奧米迦",
-      "chapter": "更新至第361話",
+      "chapter": "更新至第362話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
       "update_date": "",
@@ -212,7 +212,7 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第272話試看",
+      "chapter": "更新至第273話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
       "update_date": "",
@@ -228,7 +228,7 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第333話",
+      "chapter": "更新至第334話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
       "update_date": "",
@@ -299,17 +299,17 @@
       "score": ""
     },
     {
-      "title": "進擊的巨人",
-      "chapter": "更新至第34卷",
-      "url": "https://tw.manhuagui.com/comic/4740/",
+      "title": "異世界悠閑農家",
+      "chapter": "更新至第317話",
+      "url": "https://tw.manhuagui.com/comic/25882/",
       "cover_img": "",
       "update_date": "",
       "score": ""
     },
     {
-      "title": "異世界悠閑農家",
-      "chapter": "更新至第317話",
-      "url": "https://tw.manhuagui.com/comic/25882/",
+      "title": "進擊的巨人",
+      "chapter": "更新至第34卷",
+      "url": "https://tw.manhuagui.com/comic/4740/",
       "cover_img": "",
       "update_date": "",
       "score": ""
