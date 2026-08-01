@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-07-25 14:22:58",
+  "crawl_date": "2026-08-01 14:17:25",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,7 +12,7 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第280話",
+      "chapter": "更新至第281話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
       "update_date": "",
@@ -20,7 +20,7 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1185話",
+      "chapter": "更新至第1189話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
       "update_date": "",
@@ -68,7 +68,7 @@
     },
     {
       "title": "入間同學入魔了",
-      "chapter": "更新至第451話",
+      "chapter": "更新至第452話",
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
       "update_date": "",
@@ -196,7 +196,7 @@
     },
     {
       "title": "拳愿奧米迦",
-      "chapter": "更新至第363話",
+      "chapter": "更新至第364話",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
       "update_date": "",
@@ -212,7 +212,7 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第274話 試看",
+      "chapter": "更新至第275話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
       "update_date": "",
@@ -251,17 +251,17 @@
       "score": ""
     },
     {
-      "title": "國民老公帶回家：偷吻55次",
-      "chapter": "更新至最終話[完]",
-      "url": "https://tw.manhuagui.com/comic/20579/",
+      "title": "東京喰種RE",
+      "chapter": "更新至第16卷[完]",
+      "url": "https://tw.manhuagui.com/comic/16058/",
       "cover_img": "",
       "update_date": "",
       "score": ""
     },
     {
-      "title": "東京喰種RE",
-      "chapter": "更新至第16卷[完]",
-      "url": "https://tw.manhuagui.com/comic/16058/",
+      "title": "國民老公帶回家：偷吻55次",
+      "chapter": "更新至最終話[完]",
+      "url": "https://tw.manhuagui.com/comic/20579/",
       "cover_img": "",
       "update_date": "",
       "score": ""
@@ -323,17 +323,17 @@
       "score": ""
     },
     {
-      "title": "怪獸8號",
-      "chapter": "更新至第129話",
-      "url": "https://tw.manhuagui.com/comic/36859/",
+      "title": "超自然武裝噹噠噹",
+      "chapter": "更新至第242話",
+      "url": "https://tw.manhuagui.com/comic/39903/",
       "cover_img": "",
       "update_date": "",
       "score": ""
     },
     {
-      "title": "超自然武裝噹噠噹",
-      "chapter": "更新至第241話",
-      "url": "https://tw.manhuagui.com/comic/39903/",
+      "title": "怪獸8號",
+      "chapter": "更新至第129話",
+      "url": "https://tw.manhuagui.com/comic/36859/",
       "cover_img": "",
       "update_date": "",
       "score": ""
