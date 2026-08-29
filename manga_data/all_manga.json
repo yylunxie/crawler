@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-08-22 13:21:31",
+  "crawl_date": "2026-08-29 16:53:38",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,7 +20,7 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1189話",
+      "chapter": "更新至第1191話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
       "update_date": "",
@@ -68,7 +68,7 @@
     },
     {
       "title": "入間同學入魔了",
-      "chapter": "更新至第454話",
+      "chapter": "更新至第36卷",
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
       "update_date": "",
@@ -196,8 +196,16 @@
     },
     {
       "title": "拳愿奧米迦",
-      "chapter": "更新至第365話",
+      "chapter": "更新至第367話 試看",
       "url": "https://tw.manhuagui.com/comic/30782/",
+      "cover_img": "",
+      "update_date": "",
+      "score": ""
+    },
+    {
+      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
+      "chapter": "更新至第277話試看",
+      "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
       "update_date": "",
       "score": ""
@@ -206,14 +214,6 @@
       "title": "Dr.STONE",
       "chapter": "更新至官方人氣投票[完]",
       "url": "https://tw.manhuagui.com/comic/23270/",
-      "cover_img": "",
-      "update_date": "",
-      "score": ""
-    },
-    {
-      "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第275話試看",
-      "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
       "update_date": "",
       "score": ""
@@ -235,17 +235,17 @@
       "score": ""
     },
     {
-      "title": "靈劍尊",
-      "chapter": "更新至第502話 理應處死，以儆效尤",
-      "url": "https://tw.manhuagui.com/comic/25151/",
+      "title": "轉生賢者的異世界生活~取得副職業并成為世界最強",
+      "chapter": "更新至第99話",
+      "url": "https://tw.manhuagui.com/comic/30278/",
       "cover_img": "",
       "update_date": "",
       "score": ""
     },
     {
-      "title": "轉生賢者的異世界生活~取得副職業并成為世界最強",
-      "chapter": "更新至第99話",
-      "url": "https://tw.manhuagui.com/comic/30278/",
+      "title": "靈劍尊",
+      "chapter": "更新至第502話 理應處死，以儆效尤",
+      "url": "https://tw.manhuagui.com/comic/25151/",
       "cover_img": "",
       "update_date": "",
       "score": ""
@@ -292,7 +292,7 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第220.5話",
+      "chapter": "更新至第221話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "",
@@ -324,7 +324,7 @@
     },
     {
       "title": "超自然武裝噹噠噹",
-      "chapter": "更新至第244話",
+      "chapter": "更新至第245話",
       "url": "https://tw.manhuagui.com/comic/39903/",
       "cover_img": "",
       "update_date": "",
