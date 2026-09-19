@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-09-12 15:53:03",
+  "crawl_date": "2026-09-19 16:07:00",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,7 +20,7 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1192話",
+      "chapter": "更新至第1193話",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
       "update_date": "",
@@ -132,7 +132,7 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第887話 毀滅的別動隊",
+      "chapter": "更新至第888話 戰爭",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
       "update_date": "",
@@ -180,8 +180,16 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第140話",
+      "chapter": "更新至番外篇19",
       "url": "https://tw.manhuagui.com/comic/31550/",
+      "cover_img": "",
+      "update_date": "",
+      "score": ""
+    },
+    {
+      "title": "拳愿奧米迦",
+      "chapter": "更新至第370話 試看",
+      "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
       "update_date": "",
       "score": ""
@@ -195,16 +203,8 @@
       "score": ""
     },
     {
-      "title": "拳愿奧米迦",
-      "chapter": "更新至第369話 試看",
-      "url": "https://tw.manhuagui.com/comic/30782/",
-      "cover_img": "",
-      "update_date": "",
-      "score": ""
-    },
-    {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第278話試看",
+      "chapter": "更新至第279話",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
       "update_date": "",
@@ -228,7 +228,7 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第336話",
+      "chapter": "更新至第339話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
       "update_date": "",
@@ -324,7 +324,7 @@
     },
     {
       "title": "超自然武裝噹噠噹",
-      "chapter": "更新至第245話",
+      "chapter": "更新至第246話",
       "url": "https://tw.manhuagui.com/comic/39903/",
       "cover_img": "",
       "update_date": "",
