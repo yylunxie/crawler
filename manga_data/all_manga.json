@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-09-19 16:07:00",
+  "crawl_date": "2026-09-26 16:47:07",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,7 +12,7 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第284話",
+      "chapter": "更新至第285話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
       "update_date": "",
@@ -228,7 +228,7 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第339話",
+      "chapter": "更新至第340話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
       "update_date": "",
@@ -292,7 +292,7 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第222話",
+      "chapter": "更新至第223話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "",
