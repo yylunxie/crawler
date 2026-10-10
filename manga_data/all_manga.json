@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-10-03 16:48:28",
+  "crawl_date": "2026-10-10 17:29:16",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,7 +12,7 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第285話",
+      "chapter": "更新至第286話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
       "update_date": "",
@@ -188,7 +188,7 @@
     },
     {
       "title": "拳愿奧米迦",
-      "chapter": "更新至第372話",
+      "chapter": "更新至第373話 試看",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
       "update_date": "",
@@ -204,7 +204,7 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第281話試看",
+      "chapter": "更新至第282話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
       "update_date": "",
@@ -228,7 +228,7 @@
     },
     {
       "title": "平行天堂",
-      "chapter": "更新至第340話",
+      "chapter": "更新至第342話",
       "url": "https://tw.manhuagui.com/comic/23333/",
       "cover_img": "",
       "update_date": "",
@@ -292,7 +292,7 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第223話",
+      "chapter": "更新至第224話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "",
@@ -315,17 +315,17 @@
       "score": ""
     },
     {
-      "title": "絕世武神",
-      "chapter": "更新至第155話3 師兄妹",
-      "url": "https://tw.manhuagui.com/comic/22058/",
+      "title": "超自然武裝噹噠噹",
+      "chapter": "更新至第247話",
+      "url": "https://tw.manhuagui.com/comic/39903/",
       "cover_img": "",
       "update_date": "",
       "score": ""
     },
     {
-      "title": "超自然武裝噹噠噹",
-      "chapter": "更新至第21卷",
-      "url": "https://tw.manhuagui.com/comic/39903/",
+      "title": "絕世武神",
+      "chapter": "更新至第155話3 師兄妹",
+      "url": "https://tw.manhuagui.com/comic/22058/",
       "cover_img": "",
       "update_date": "",
       "score": ""
