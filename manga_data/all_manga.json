@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-10-24 16:17:04",
+  "crawl_date": "2026-10-31 17:23:33",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -20,7 +20,7 @@
     },
     {
       "title": "ONE PIECE航海王",
-      "chapter": "更新至第1196話",
+      "chapter": "更新至第113卷",
       "url": "https://tw.manhuagui.com/comic/1128/",
       "cover_img": "//cf.mhgui.com/cpic/b/1128.jpg",
       "update_date": "",
@@ -68,7 +68,7 @@
     },
     {
       "title": "入間同學入魔了",
-      "chapter": "更新至第461話",
+      "chapter": "更新至第463話",
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
       "update_date": "",
@@ -132,7 +132,7 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第891話 應該被保護的東西",
+      "chapter": "更新至第892話 不可思議的緣",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
       "update_date": "",
@@ -180,7 +180,7 @@
     },
     {
       "title": "間諜過家家",
-      "chapter": "更新至第141話",
+      "chapter": "更新至第142話",
       "url": "https://tw.manhuagui.com/comic/31550/",
       "cover_img": "",
       "update_date": "",
@@ -204,7 +204,7 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第284話試看",
+      "chapter": "更新至第285話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
       "update_date": "",
@@ -292,7 +292,7 @@
     },
     {
       "title": "轉生七王子的魔法全解",
-      "chapter": "更新至第225話",
+      "chapter": "更新至第226話",
       "url": "https://tw.manhuagui.com/comic/36948/",
       "cover_img": "",
       "update_date": "",
@@ -307,17 +307,17 @@
       "score": ""
     },
     {
-      "title": "進擊的巨人",
-      "chapter": "更新至第34卷",
-      "url": "https://tw.manhuagui.com/comic/4740/",
+      "title": "超自然武裝噹噠噹",
+      "chapter": "更新至第250話",
+      "url": "https://tw.manhuagui.com/comic/39903/",
       "cover_img": "",
       "update_date": "",
       "score": ""
     },
     {
-      "title": "超自然武裝噹噠噹",
-      "chapter": "更新至第249話",
-      "url": "https://tw.manhuagui.com/comic/39903/",
+      "title": "進擊的巨人",
+      "chapter": "更新至第34卷",
+      "url": "https://tw.manhuagui.com/comic/4740/",
       "cover_img": "",
       "update_date": "",
       "score": ""
