@@ -1,6 +1,6 @@
 {
   "total_manga": 42,
-  "crawl_date": "2026-11-14 18:32:09",
+  "crawl_date": "2026-11-21 19:51:19",
   "mangas": [
     {
       "title": "鬼滅之刃",
@@ -12,7 +12,7 @@
     },
     {
       "title": "一拳超人",
-      "chapter": "更新至第35卷",
+      "chapter": "更新至第289話",
       "url": "https://tw.manhuagui.com/comic/7580/",
       "cover_img": "//cf.mhgui.com/cpic/b/7580.jpg",
       "update_date": "",
@@ -68,7 +68,7 @@
     },
     {
       "title": "入間同學入魔了",
-      "chapter": "更新至第43卷",
+      "chapter": "更新至第466話",
       "url": "https://tw.manhuagui.com/comic/23394/",
       "cover_img": "//cf.mhgui.com/cpic/b/23394.jpg",
       "update_date": "",
@@ -132,7 +132,7 @@
     },
     {
       "title": "王者天下",
-      "chapter": "更新至第893話",
+      "chapter": "更新至第894話 交涉的代價",
       "url": "https://tw.manhuagui.com/comic/4841/",
       "cover_img": "",
       "update_date": "",
@@ -188,7 +188,7 @@
     },
     {
       "title": "拳愿奧米迦",
-      "chapter": "更新至第377話 試看",
+      "chapter": "更新至第378話 試看",
       "url": "https://tw.manhuagui.com/comic/30782/",
       "cover_img": "",
       "update_date": "",
@@ -204,7 +204,7 @@
     },
     {
       "title": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-      "chapter": "更新至第286話試看",
+      "chapter": "更新至第287話試看",
       "url": "https://tw.manhuagui.com/comic/36998/",
       "cover_img": "",
       "update_date": "",
@@ -299,17 +299,17 @@
       "score": ""
     },
     {
-      "title": "異世界悠閑農家",
-      "chapter": "更新至第329話",
-      "url": "https://tw.manhuagui.com/comic/25882/",
+      "title": "超自然武裝噹噠噹",
+      "chapter": "更新至第253話",
+      "url": "https://tw.manhuagui.com/comic/39903/",
       "cover_img": "",
       "update_date": "",
       "score": ""
     },
     {
-      "title": "超自然武裝噹噠噹",
-      "chapter": "更新至第252話",
-      "url": "https://tw.manhuagui.com/comic/39903/",
+      "title": "異世界悠閑農家",
+      "chapter": "更新至第329話",
+      "url": "https://tw.manhuagui.com/comic/25882/",
       "cover_img": "",
       "update_date": "",
       "score": ""
